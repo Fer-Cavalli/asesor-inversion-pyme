@@ -1,0 +1,6 @@
+node_modules/
+.env
+ml/mipyme.csv
+ml/facturacion.csv
+ml/generar.log
+.DS_Store

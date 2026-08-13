@@ -1,0 +1,25 @@
+{
+  "name": "asesor-inversion-pyme",
+  "version": "1.0.0",
+  "description": "API REST que recomienda si conviene invertir en un sector/provincia, basada en un modelo de Machine Learning entrenado con datos publicos del Estado argentino, con explicacion en lenguaje natural via Gemini.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node scripts/seed.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

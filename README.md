@@ -11,8 +11,7 @@ Cada usuario se autentica con **JWT** y su historial de consultas queda guardado
 
 ## Por qué está armado así
 
-- El modelo (`ml/generar_recomendaciones.py`) es una adaptación del notebook de la
-  materia de Machine Learning: mismos datasets, mismo Random Forest. En vez de correr
+- El modelo (`ml/generar_recomendaciones.py`) es una adaptación del notebook (https://colab.research.google.com/drive/1vypl9fKJYd3Lta0N0Amv_-LTX6vP9g0j?  usp=sharing#scrollTo=W-FJsRjrBbZ7) de la materia de Machine Learning: mismos datasets, mismo Random Forest. En vez de correr
   el modelo en cada request (lo que obligaría a mezclar Node con un proceso Python,
   algo que no se vio en el curso), se corre **una vez** y se exporta una tabla con la
   predicción para cada combinación real de categoría/sector/provincia/régimen que

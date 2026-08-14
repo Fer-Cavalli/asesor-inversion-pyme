@@ -29,7 +29,8 @@ Cada usuario se autentica con **JWT** y su historial de consultas queda guardado
 asesor-inversion-pyme/
 ├── ml/
 │   ├── generar_recomendaciones.py   # descarga datasets, entrena el modelo, exporta recomendaciones.json
-│   └── recomendaciones.json          # tabla ya generada (489 combinaciones reales)
+│   ├── recomendaciones.json          # tabla ya generada (489 combinaciones reales)
+│   └── metricas.json                 # métricas del último entrenamiento (accuracy, etc.)
 ├── scripts/
 │   └── seed.js                       # carga recomendaciones.json en MongoDB
 ├── src/
@@ -43,6 +44,7 @@ asesor-inversion-pyme/
 │   └── server.js
 ├── thunder-collection.json     # colección para importar en Thunder Client
 ├── thunder-environment.json    # variables baseUrl / token para Thunder Client
+├── jailbreak-testing.md        # batería de pruebas de jailbreak usada como referencia para el topic guard
 └── .env.example
 ```
 

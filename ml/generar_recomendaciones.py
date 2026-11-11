@@ -6,7 +6,13 @@ descarga los datasets publicos del Estado argentino (Registro MiPyME +
 variacion de facturacion por sector), entrena el mismo Random Forest, y en
 vez de servir el modelo en vivo, calcula la prediccion para cada combinacion
 real de (Categoria, Sector, Provincia, Regimen_Tributario) que aparece en el
-dataset y la exporta a recomendaciones.json. Ese JSON es lo que se carga en
+dataset y la exporta a recomendaciones.json.
+
+Que mide el modelo: el target es `Vigente` del Registro MiPyME, que vale 1 si el
+certificado MiPyME de la empresa no estaba vencido al corte del dataset
+(23/12/2024). O sea, estima que tan probable es que una empresa con ese perfil
+mantenga su certificado al dia: una senal de permanencia/actividad, no de
+rentabilidad ni de "exito" economico. Ese JSON es lo que se carga en
 MongoDB (ver ../scripts/seed.js) y consulta la API.
 
 Uso: python3 generar_recomendaciones.py
@@ -20,10 +26,17 @@ import numpy as np
 import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report
+from sklearn.linear_model import LogisticRegression
+from sklearn.dummy import DummyClassifier
+from sklearn.metrics import (
+    balanced_accuracy_score,
+    classification_report,
+    f1_score,
+    roc_auc_score,
+)
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 MIPYME_URL = "https://cdn.produccion.gob.ar/cdn-sepyme/registro_mipyme_23-12-2024.csv"
 FACTURACION_URL = "https://cdn.produccion.gob.ar/cdn-cep/datos-facturacion/fact_por_clae3.csv"
@@ -62,7 +75,7 @@ def limpiar(mipyme, fact):
     mipyme["clae3"] = (
         mipyme["CLAE6"].astype(str).str.replace(r"\D", "", regex=True).str[:3]
     )
-    mipyme["target_exito"] = mipyme["Vigente"].astype(int)
+    mipyme["target_vigente"] = mipyme["Vigente"].astype(int)
 
     fact["fecha"] = pd.to_datetime(fact["fecha"])
     fact["var_facturacion"] = pd.to_numeric(fact["var_facturacion"], errors="coerce")
@@ -99,7 +112,7 @@ def entrenar(df_ml):
     )
 
     X = df_sample[cat_features + num_features].copy()
-    y = df_sample["target_exito"].copy()
+    y = df_sample["target_vigente"].copy()
 
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=RANDOM_STATE, stratify=y
@@ -130,17 +143,60 @@ def entrenar(df_ml):
     rf_model.fit(X_train, y_train)
 
     y_pred = rf_model.predict(X_test)
-    reporte = classification_report(y_test, y_pred, output_dict=True)
+    y_score = rf_model.predict_proba(X_test)[:, 1]
+
+    # Linea base: un "modelo" que siempre responde la clase mayoritaria (vigente).
+    # Como ~73% de las empresas son vigentes, su accuracy es ~73%: por eso la
+    # accuracy sola no sirve para evaluar este problema desbalanceado.
+    baseline = DummyClassifier(strategy="most_frequent").fit(X_train, y_train)
+    y_base = baseline.predict(X_test)
+
+    # Modelo de comparacion mas simple (lineal), con las mismas features.
+    logreg = Pipeline(
+        steps=[
+            (
+                "prep",
+                ColumnTransformer(
+                    transformers=[
+                        ("cat", OneHotEncoder(handle_unknown="ignore"), cat_features),
+                        ("num", StandardScaler(), num_features),
+                    ]
+                ),
+            ),
+            ("clf", LogisticRegression(max_iter=2000, class_weight="balanced")),
+        ]
+    ).fit(X_train, y_train)
+
+    def resumen(pred, score):
+        return {
+            "accuracy": round(float((pred == y_test).mean()), 4),
+            "balanced_accuracy": round(float(balanced_accuracy_score(y_test, pred)), 4),
+            "f1_macro": round(float(f1_score(y_test, pred, average="macro")), 4),
+            "roc_auc": round(float(roc_auc_score(y_test, score)), 4),
+        }
+
+    reporte = {
+        "proporcion_vigentes_test": round(float(y_test.mean()), 4),
+        "random_forest": resumen(y_pred, y_score),
+        "regresion_logistica": resumen(
+            logreg.predict(X_test), logreg.predict_proba(X_test)[:, 1]
+        ),
+        "baseline_clase_mayoritaria": resumen(y_base, np.full(len(y_test), 0.5)),
+        "classification_report": classification_report(y_test, y_pred, output_dict=True),
+    }
 
     return rf_model, df_sample, reporte
 
 
-def clasificar(p_exito):
-    if p_exito >= 0.70:
-        return "INVERTIR"
-    if p_exito >= 0.45:
-        return "INVERTIR CON CAUTELA"
-    return "NO INVERTIR"
+def clasificar(indice):
+    # Cortes fijos sobre el indice del modelo. Reparten las combinaciones en
+    # grupos de tamano parecido; no son probabilidades calibradas (el modelo usa
+    # class_weight="balanced", que corre las probabilidades hacia el centro).
+    if indice >= 0.70:
+        return "BAJO"
+    if indice >= 0.45:
+        return "MEDIO"
+    return "ALTO"
 
 
 def generar_tabla_recomendaciones(rf_model, df_sample):
@@ -151,7 +207,7 @@ def generar_tabla_recomendaciones(rf_model, df_sample):
         .agg(
             var_fact_last=("var_fact_last", "mean"),
             var_fact_mean_3m=("var_fact_mean_3m", "mean"),
-            muestras=("target_exito", "size"),
+            muestras=("target_vigente", "size"),
         )
         .reset_index()
     )
@@ -166,7 +222,7 @@ def generar_tabla_recomendaciones(rf_model, df_sample):
     probs = rf_model.predict_proba(X_new)[:, 1]
 
     registros = []
-    for row, p_exito in zip(combinaciones.itertuples(index=False), probs):
+    for row, indice in zip(combinaciones.itertuples(index=False), probs):
         registros.append(
             {
                 "categoria": row.Categoria,
@@ -176,9 +232,8 @@ def generar_tabla_recomendaciones(rf_model, df_sample):
                 "varFactLast": round(float(row.var_fact_last), 2),
                 "varFactMean3m": round(float(row.var_fact_mean_3m), 2),
                 "muestras": int(row.muestras),
-                "probExito": round(float(p_exito), 4),
-                "riesgo": round(float(1 - p_exito), 4),
-                "recomendacion": clasificar(p_exito),
+                "indicePermanencia": round(float(indice), 4),
+                "nivelRiesgo": clasificar(indice),
             }
         )
 
@@ -211,7 +266,7 @@ def main():
             {
                 "filas_entrenamiento": len(df_sample),
                 "combinaciones_exportadas": len(registros),
-                "classification_report": reporte,
+                **reporte,
             },
             f,
             ensure_ascii=False,

@@ -7,9 +7,8 @@
     "varFactLast": 152.86,
     "varFactMean3m": 117.03,
     "muestras": 1412,
-    "probExito": 0.6227,
-    "riesgo": 0.3773,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6227,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -19,9 +18,8 @@
     "varFactLast": 151.71,
     "varFactMean3m": 116.03,
     "muestras": 946,
-    "probExito": 0.6387,
-    "riesgo": 0.3613,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6387,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -31,9 +29,8 @@
     "varFactLast": 144.73,
     "varFactMean3m": 112.17,
     "muestras": 567,
-    "probExito": 0.3109,
-    "riesgo": 0.6891,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3109,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -43,9 +40,8 @@
     "varFactLast": 153.4,
     "varFactMean3m": 117.47,
     "muestras": 79,
-    "probExito": 0.57,
-    "riesgo": 0.43,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.57,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -55,9 +51,8 @@
     "varFactLast": 125.15,
     "varFactMean3m": 100.12,
     "muestras": 67,
-    "probExito": 0.818,
-    "riesgo": 0.182,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.818,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -67,9 +62,8 @@
     "varFactLast": 138.26,
     "varFactMean3m": 108.34,
     "muestras": 18,
-    "probExito": 0.529,
-    "riesgo": 0.471,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.529,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -79,9 +73,8 @@
     "varFactLast": 150.58,
     "varFactMean3m": 116.06,
     "muestras": 14,
-    "probExito": 0.5003,
-    "riesgo": 0.4997,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5003,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -91,9 +84,8 @@
     "varFactLast": 130.01,
     "varFactMean3m": 102.68,
     "muestras": 11,
-    "probExito": 0.4667,
-    "riesgo": 0.5333,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4667,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -103,9 +95,8 @@
     "varFactLast": 135.14,
     "varFactMean3m": 105.77,
     "muestras": 7,
-    "probExito": 0.3821,
-    "riesgo": 0.6179,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3821,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -115,9 +106,8 @@
     "varFactLast": 129.45,
     "varFactMean3m": 102.59,
     "muestras": 69,
-    "probExito": 0.4811,
-    "riesgo": 0.5189,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4811,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -127,9 +117,8 @@
     "varFactLast": 177.49,
     "varFactMean3m": 132.51,
     "muestras": 26,
-    "probExito": 0.8178,
-    "riesgo": 0.1822,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8178,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -139,9 +128,8 @@
     "varFactLast": 129.75,
     "varFactMean3m": 102.91,
     "muestras": 262,
-    "probExito": 0.4618,
-    "riesgo": 0.5382,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4618,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -151,9 +139,8 @@
     "varFactLast": 166.14,
     "varFactMean3m": 125.12,
     "muestras": 449,
-    "probExito": 0.4606,
-    "riesgo": 0.5394,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4606,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -163,9 +150,8 @@
     "varFactLast": 171.47,
     "varFactMean3m": 128.33,
     "muestras": 203,
-    "probExito": 0.5643,
-    "riesgo": 0.4357,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5643,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -175,9 +161,8 @@
     "varFactLast": 163.6,
     "varFactMean3m": 123.67,
     "muestras": 186,
-    "probExito": 0.1953,
-    "riesgo": 0.8047,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1953,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -187,9 +172,8 @@
     "varFactLast": 134.31,
     "varFactMean3m": 105.81,
     "muestras": 108,
-    "probExito": 0.3908,
-    "riesgo": 0.6092,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3908,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -199,9 +183,8 @@
     "varFactLast": 138.21,
     "varFactMean3m": 108.22,
     "muestras": 73,
-    "probExito": 0.5548,
-    "riesgo": 0.4452,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5548,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -211,9 +194,8 @@
     "varFactLast": 129.91,
     "varFactMean3m": 102.98,
     "muestras": 51,
-    "probExito": 0.3012,
-    "riesgo": 0.6988,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3012,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -223,9 +205,8 @@
     "varFactLast": 141.68,
     "varFactMean3m": 110.08,
     "muestras": 316,
-    "probExito": 0.4924,
-    "riesgo": 0.5076,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4924,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -235,9 +216,8 @@
     "varFactLast": 132.21,
     "varFactMean3m": 103.94,
     "muestras": 408,
-    "probExito": 0.9728,
-    "riesgo": 0.0272,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9728,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -247,9 +227,8 @@
     "varFactLast": 139.59,
     "varFactMean3m": 108.9,
     "muestras": 69,
-    "probExito": 0.3579,
-    "riesgo": 0.6421,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3579,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -259,9 +238,8 @@
     "varFactLast": 134.26,
     "varFactMean3m": 105.89,
     "muestras": 33,
-    "probExito": 0.4311,
-    "riesgo": 0.5689,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4311,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -271,9 +249,8 @@
     "varFactLast": 130.35,
     "varFactMean3m": 103.51,
     "muestras": 26,
-    "probExito": 0.5383,
-    "riesgo": 0.4617,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5383,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -283,9 +260,8 @@
     "varFactLast": 130.27,
     "varFactMean3m": 102.71,
     "muestras": 8,
-    "probExito": 0.4699,
-    "riesgo": 0.5301,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4699,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -295,9 +271,8 @@
     "varFactLast": 176.46,
     "varFactMean3m": 131.63,
     "muestras": 5,
-    "probExito": 0.31,
-    "riesgo": 0.69,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.31,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -307,9 +282,8 @@
     "varFactLast": 141.83,
     "varFactMean3m": 110.36,
     "muestras": 306,
-    "probExito": 0.4264,
-    "riesgo": 0.5736,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4264,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -319,9 +293,8 @@
     "varFactLast": 145.75,
     "varFactMean3m": 112.8,
     "muestras": 93,
-    "probExito": 0.8092,
-    "riesgo": 0.1908,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8092,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -331,9 +304,8 @@
     "varFactLast": 128.05,
     "varFactMean3m": 101.93,
     "muestras": 63,
-    "probExito": 0.5885,
-    "riesgo": 0.4115,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5885,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -343,9 +315,8 @@
     "varFactLast": 158.83,
     "varFactMean3m": 120.88,
     "muestras": 5,
-    "probExito": 0.7502,
-    "riesgo": 0.2498,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7502,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -355,9 +326,8 @@
     "varFactLast": 134.66,
     "varFactMean3m": 103.85,
     "muestras": 6,
-    "probExito": 0.4737,
-    "riesgo": 0.5263,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4737,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -367,9 +337,8 @@
     "varFactLast": 156.84,
     "varFactMean3m": 119.26,
     "muestras": 32,
-    "probExito": 0.7186,
-    "riesgo": 0.2814,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7186,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -379,9 +348,8 @@
     "varFactLast": 159.85,
     "varFactMean3m": 120.28,
     "muestras": 30,
-    "probExito": 0.678,
-    "riesgo": 0.322,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.678,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -391,9 +359,8 @@
     "varFactLast": 162.55,
     "varFactMean3m": 123.0,
     "muestras": 30,
-    "probExito": 0.8582,
-    "riesgo": 0.1418,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8582,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -403,9 +370,8 @@
     "varFactLast": 177.78,
     "varFactMean3m": 132.2,
     "muestras": 25,
-    "probExito": 0.412,
-    "riesgo": 0.588,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.412,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -415,9 +381,8 @@
     "varFactLast": 150.1,
     "varFactMean3m": 114.87,
     "muestras": 18,
-    "probExito": 0.6406,
-    "riesgo": 0.3594,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6406,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -427,9 +392,8 @@
     "varFactLast": 144.8,
     "varFactMean3m": 110.9,
     "muestras": 13,
-    "probExito": 0.7451,
-    "riesgo": 0.2549,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7451,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -439,9 +403,8 @@
     "varFactLast": 133.08,
     "varFactMean3m": 103.21,
     "muestras": 7,
-    "probExito": 0.734,
-    "riesgo": 0.266,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.734,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -451,9 +414,8 @@
     "varFactLast": 123.57,
     "varFactMean3m": 99.38,
     "muestras": 5,
-    "probExito": 0.4293,
-    "riesgo": 0.5707,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4293,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -463,9 +425,8 @@
     "varFactLast": 131.56,
     "varFactMean3m": 104.12,
     "muestras": 53,
-    "probExito": 0.5402,
-    "riesgo": 0.4598,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5402,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -475,9 +436,8 @@
     "varFactLast": 134.3,
     "varFactMean3m": 105.61,
     "muestras": 49,
-    "probExito": 0.5295,
-    "riesgo": 0.4705,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5295,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -487,9 +447,8 @@
     "varFactLast": 139.6,
     "varFactMean3m": 109.15,
     "muestras": 22,
-    "probExito": 0.4273,
-    "riesgo": 0.5727,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4273,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -499,9 +458,8 @@
     "varFactLast": 196.08,
     "varFactMean3m": 143.58,
     "muestras": 27,
-    "probExito": 0.321,
-    "riesgo": 0.679,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.321,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -511,9 +469,8 @@
     "varFactLast": 185.28,
     "varFactMean3m": 137.0,
     "muestras": 10,
-    "probExito": 0.7824,
-    "riesgo": 0.2176,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7824,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -523,9 +480,8 @@
     "varFactLast": 165.26,
     "varFactMean3m": 124.66,
     "muestras": 28,
-    "probExito": 0.6853,
-    "riesgo": 0.3147,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6853,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -535,9 +491,8 @@
     "varFactLast": 169.48,
     "varFactMean3m": 127.05,
     "muestras": 6,
-    "probExito": 0.199,
-    "riesgo": 0.801,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.199,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -547,9 +502,8 @@
     "varFactLast": 150.15,
     "varFactMean3m": 115.54,
     "muestras": 56,
-    "probExito": 0.319,
-    "riesgo": 0.681,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.319,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -559,9 +513,8 @@
     "varFactLast": 145.29,
     "varFactMean3m": 112.55,
     "muestras": 32,
-    "probExito": 0.3863,
-    "riesgo": 0.6137,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3863,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -571,9 +524,8 @@
     "varFactLast": 144.19,
     "varFactMean3m": 111.57,
     "muestras": 26,
-    "probExito": 0.199,
-    "riesgo": 0.801,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.199,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -583,9 +535,8 @@
     "varFactLast": 154.04,
     "varFactMean3m": 117.72,
     "muestras": 436,
-    "probExito": 0.3842,
-    "riesgo": 0.6158,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3842,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -595,9 +546,8 @@
     "varFactLast": 149.55,
     "varFactMean3m": 114.85,
     "muestras": 326,
-    "probExito": 0.5438,
-    "riesgo": 0.4562,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5438,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -607,9 +557,8 @@
     "varFactLast": 158.43,
     "varFactMean3m": 120.57,
     "muestras": 156,
-    "probExito": 0.3265,
-    "riesgo": 0.6735,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3265,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -619,9 +568,8 @@
     "varFactLast": 161.38,
     "varFactMean3m": 122.01,
     "muestras": 38,
-    "probExito": 0.4159,
-    "riesgo": 0.5841,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4159,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -631,9 +579,8 @@
     "varFactLast": 164.25,
     "varFactMean3m": 123.74,
     "muestras": 21,
-    "probExito": 0.6138,
-    "riesgo": 0.3862,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6138,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -643,9 +590,8 @@
     "varFactLast": 159.7,
     "varFactMean3m": 121.03,
     "muestras": 12,
-    "probExito": 0.8292,
-    "riesgo": 0.1708,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8292,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -655,9 +601,8 @@
     "varFactLast": 206.38,
     "varFactMean3m": 149.87,
     "muestras": 33,
-    "probExito": 0.2439,
-    "riesgo": 0.7561,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2439,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -667,9 +612,8 @@
     "varFactLast": 188.97,
     "varFactMean3m": 139.37,
     "muestras": 13,
-    "probExito": 0.4641,
-    "riesgo": 0.5359,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4641,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -679,9 +623,8 @@
     "varFactLast": 197.19,
     "varFactMean3m": 143.99,
     "muestras": 24,
-    "probExito": 0.3143,
-    "riesgo": 0.6857,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3143,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -691,9 +634,8 @@
     "varFactLast": 117.59,
     "varFactMean3m": 92.28,
     "muestras": 8076,
-    "probExito": 0.3904,
-    "riesgo": 0.6096,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3904,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -703,9 +645,8 @@
     "varFactLast": 112.56,
     "varFactMean3m": 89.22,
     "muestras": 8521,
-    "probExito": 0.5019,
-    "riesgo": 0.4981,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5019,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -715,9 +656,8 @@
     "varFactLast": 129.15,
     "varFactMean3m": 99.31,
     "muestras": 2289,
-    "probExito": 0.491,
-    "riesgo": 0.509,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.491,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -727,9 +667,8 @@
     "varFactLast": 113.25,
     "varFactMean3m": 89.74,
     "muestras": 139,
-    "probExito": 0.6816,
-    "riesgo": 0.3184,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6816,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -739,9 +678,8 @@
     "varFactLast": 108.81,
     "varFactMean3m": 87.27,
     "muestras": 174,
-    "probExito": 0.489,
-    "riesgo": 0.511,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.489,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -751,9 +689,8 @@
     "varFactLast": 126.91,
     "varFactMean3m": 97.83,
     "muestras": 33,
-    "probExito": 0.5349,
-    "riesgo": 0.4651,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5349,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -763,9 +700,8 @@
     "varFactLast": 118.78,
     "varFactMean3m": 93.16,
     "muestras": 401,
-    "probExito": 0.9714,
-    "riesgo": 0.0286,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9714,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -775,9 +711,8 @@
     "varFactLast": 112.74,
     "varFactMean3m": 89.51,
     "muestras": 360,
-    "probExito": 0.5455,
-    "riesgo": 0.4545,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5455,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -787,9 +722,8 @@
     "varFactLast": 126.96,
     "varFactMean3m": 98.04,
     "muestras": 85,
-    "probExito": 0.5041,
-    "riesgo": 0.4959,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5041,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -799,9 +733,8 @@
     "varFactLast": 110.92,
     "varFactMean3m": 88.58,
     "muestras": 283,
-    "probExito": 0.4187,
-    "riesgo": 0.5813,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4187,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -811,9 +744,8 @@
     "varFactLast": 109.75,
     "varFactMean3m": 87.85,
     "muestras": 186,
-    "probExito": 0.484,
-    "riesgo": 0.516,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.484,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -823,9 +755,8 @@
     "varFactLast": 125.34,
     "varFactMean3m": 97.58,
     "muestras": 98,
-    "probExito": 0.5327,
-    "riesgo": 0.4673,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5327,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -835,9 +766,8 @@
     "varFactLast": 118.66,
     "varFactMean3m": 92.47,
     "muestras": 2422,
-    "probExito": 0.4651,
-    "riesgo": 0.5349,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4651,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -847,9 +777,8 @@
     "varFactLast": 115.24,
     "varFactMean3m": 90.49,
     "muestras": 1776,
-    "probExito": 0.5617,
-    "riesgo": 0.4383,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5617,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -859,9 +788,8 @@
     "varFactLast": 131.41,
     "varFactMean3m": 99.84,
     "muestras": 2113,
-    "probExito": 0.4896,
-    "riesgo": 0.5104,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4896,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -871,9 +799,8 @@
     "varFactLast": 117.96,
     "varFactMean3m": 92.92,
     "muestras": 2031,
-    "probExito": 0.4673,
-    "riesgo": 0.5327,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4673,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -883,9 +810,8 @@
     "varFactLast": 110.12,
     "varFactMean3m": 88.16,
     "muestras": 2308,
-    "probExito": 0.6436,
-    "riesgo": 0.3564,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6436,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -895,9 +821,8 @@
     "varFactLast": 129.71,
     "varFactMean3m": 99.53,
     "muestras": 870,
-    "probExito": 0.4423,
-    "riesgo": 0.5577,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4423,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -907,9 +832,8 @@
     "varFactLast": 116.72,
     "varFactMean3m": 91.88,
     "muestras": 344,
-    "probExito": 0.4321,
-    "riesgo": 0.5679,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4321,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -919,9 +843,8 @@
     "varFactLast": 109.19,
     "varFactMean3m": 87.54,
     "muestras": 411,
-    "probExito": 0.408,
-    "riesgo": 0.592,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.408,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -931,9 +854,8 @@
     "varFactLast": 124.55,
     "varFactMean3m": 96.8,
     "muestras": 125,
-    "probExito": 0.3094,
-    "riesgo": 0.6906,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3094,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -943,9 +865,8 @@
     "varFactLast": 115.22,
     "varFactMean3m": 91.06,
     "muestras": 696,
-    "probExito": 0.6662,
-    "riesgo": 0.3338,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6662,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -955,9 +876,8 @@
     "varFactLast": 110.98,
     "varFactMean3m": 88.64,
     "muestras": 1166,
-    "probExito": 0.5689,
-    "riesgo": 0.4311,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5689,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -967,9 +887,8 @@
     "varFactLast": 126.39,
     "varFactMean3m": 97.36,
     "muestras": 147,
-    "probExito": 0.5095,
-    "riesgo": 0.4905,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5095,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -979,9 +898,8 @@
     "varFactLast": 117.88,
     "varFactMean3m": 92.55,
     "muestras": 189,
-    "probExito": 0.7687,
-    "riesgo": 0.2313,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7687,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -991,9 +909,8 @@
     "varFactLast": 108.03,
     "varFactMean3m": 86.62,
     "muestras": 221,
-    "probExito": 0.4798,
-    "riesgo": 0.5202,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4798,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1003,9 +920,8 @@
     "varFactLast": 123.38,
     "varFactMean3m": 95.64,
     "muestras": 27,
-    "probExito": 0.2825,
-    "riesgo": 0.7175,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2825,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1015,9 +931,8 @@
     "varFactLast": 113.03,
     "varFactMean3m": 89.53,
     "muestras": 202,
-    "probExito": 0.6436,
-    "riesgo": 0.3564,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6436,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1027,9 +942,8 @@
     "varFactLast": 104.29,
     "varFactMean3m": 84.15,
     "muestras": 260,
-    "probExito": 0.6301,
-    "riesgo": 0.3699,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6301,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1039,9 +953,8 @@
     "varFactLast": 124.68,
     "varFactMean3m": 96.74,
     "muestras": 37,
-    "probExito": 0.7527,
-    "riesgo": 0.2473,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7527,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1051,9 +964,8 @@
     "varFactLast": 114.83,
     "varFactMean3m": 91.04,
     "muestras": 304,
-    "probExito": 0.2719,
-    "riesgo": 0.7281,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2719,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1063,9 +975,8 @@
     "varFactLast": 108.66,
     "varFactMean3m": 87.21,
     "muestras": 259,
-    "probExito": 0.6418,
-    "riesgo": 0.3582,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6418,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1075,9 +986,8 @@
     "varFactLast": 123.85,
     "varFactMean3m": 96.32,
     "muestras": 65,
-    "probExito": 0.7391,
-    "riesgo": 0.2609,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7391,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1087,9 +997,8 @@
     "varFactLast": 113.12,
     "varFactMean3m": 89.72,
     "muestras": 144,
-    "probExito": 0.5054,
-    "riesgo": 0.4946,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5054,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1099,9 +1008,8 @@
     "varFactLast": 109.79,
     "varFactMean3m": 87.59,
     "muestras": 124,
-    "probExito": 0.5205,
-    "riesgo": 0.4795,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5205,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1111,9 +1019,8 @@
     "varFactLast": 120.02,
     "varFactMean3m": 93.84,
     "muestras": 33,
-    "probExito": 0.1689,
-    "riesgo": 0.8311,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1689,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1123,9 +1030,8 @@
     "varFactLast": 119.03,
     "varFactMean3m": 93.57,
     "muestras": 725,
-    "probExito": 0.4693,
-    "riesgo": 0.5307,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4693,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1135,9 +1041,8 @@
     "varFactLast": 111.24,
     "varFactMean3m": 88.42,
     "muestras": 796,
-    "probExito": 0.6497,
-    "riesgo": 0.3503,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6497,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1147,9 +1052,8 @@
     "varFactLast": 127.55,
     "varFactMean3m": 98.04,
     "muestras": 423,
-    "probExito": 0.5466,
-    "riesgo": 0.4534,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5466,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1159,9 +1063,8 @@
     "varFactLast": 117.68,
     "varFactMean3m": 92.56,
     "muestras": 452,
-    "probExito": 0.7071,
-    "riesgo": 0.2929,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7071,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1171,9 +1074,8 @@
     "varFactLast": 113.26,
     "varFactMean3m": 89.94,
     "muestras": 479,
-    "probExito": 0.6586,
-    "riesgo": 0.3414,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6586,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1183,9 +1085,8 @@
     "varFactLast": 128.25,
     "varFactMean3m": 98.38,
     "muestras": 76,
-    "probExito": 0.8279,
-    "riesgo": 0.1721,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8279,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1195,9 +1096,8 @@
     "varFactLast": 114.88,
     "varFactMean3m": 90.91,
     "muestras": 381,
-    "probExito": 0.6515,
-    "riesgo": 0.3485,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6515,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1207,9 +1107,8 @@
     "varFactLast": 109.4,
     "varFactMean3m": 87.54,
     "muestras": 275,
-    "probExito": 0.5708,
-    "riesgo": 0.4292,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5708,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1219,9 +1118,8 @@
     "varFactLast": 129.54,
     "varFactMean3m": 100.06,
     "muestras": 115,
-    "probExito": 0.3103,
-    "riesgo": 0.6897,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3103,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1231,9 +1129,8 @@
     "varFactLast": 116.07,
     "varFactMean3m": 91.68,
     "muestras": 453,
-    "probExito": 0.626,
-    "riesgo": 0.374,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.626,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1243,9 +1140,8 @@
     "varFactLast": 109.14,
     "varFactMean3m": 87.54,
     "muestras": 358,
-    "probExito": 0.6666,
-    "riesgo": 0.3334,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6666,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1255,9 +1151,8 @@
     "varFactLast": 125.94,
     "varFactMean3m": 97.4,
     "muestras": 124,
-    "probExito": 0.6348,
-    "riesgo": 0.3652,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6348,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1267,9 +1162,8 @@
     "varFactLast": 114.11,
     "varFactMean3m": 90.23,
     "muestras": 364,
-    "probExito": 0.3221,
-    "riesgo": 0.6779,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3221,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1279,9 +1173,8 @@
     "varFactLast": 109.14,
     "varFactMean3m": 87.21,
     "muestras": 359,
-    "probExito": 0.6137,
-    "riesgo": 0.3863,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6137,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1291,9 +1184,8 @@
     "varFactLast": 125.75,
     "varFactMean3m": 97.12,
     "muestras": 128,
-    "probExito": 0.6496,
-    "riesgo": 0.3504,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6496,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1303,9 +1195,8 @@
     "varFactLast": 116.5,
     "varFactMean3m": 91.94,
     "muestras": 211,
-    "probExito": 0.5174,
-    "riesgo": 0.4826,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5174,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1315,9 +1206,8 @@
     "varFactLast": 112.56,
     "varFactMean3m": 89.57,
     "muestras": 156,
-    "probExito": 0.5207,
-    "riesgo": 0.4793,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5207,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1327,9 +1217,8 @@
     "varFactLast": 133.77,
     "varFactMean3m": 102.08,
     "muestras": 80,
-    "probExito": 0.5749,
-    "riesgo": 0.4251,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5749,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1339,9 +1228,8 @@
     "varFactLast": 115.6,
     "varFactMean3m": 91.24,
     "muestras": 199,
-    "probExito": 0.6287,
-    "riesgo": 0.3713,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6287,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1351,9 +1239,8 @@
     "varFactLast": 108.81,
     "varFactMean3m": 87.26,
     "muestras": 200,
-    "probExito": 0.5354,
-    "riesgo": 0.4646,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5354,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1363,9 +1250,8 @@
     "varFactLast": 118.03,
     "varFactMean3m": 92.91,
     "muestras": 70,
-    "probExito": 0.1271,
-    "riesgo": 0.8729,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1271,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1375,9 +1261,8 @@
     "varFactLast": 111.49,
     "varFactMean3m": 89.25,
     "muestras": 151,
-    "probExito": 0.4077,
-    "riesgo": 0.5923,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4077,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1387,9 +1272,8 @@
     "varFactLast": 112.39,
     "varFactMean3m": 89.68,
     "muestras": 108,
-    "probExito": 0.5249,
-    "riesgo": 0.4751,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5249,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1399,9 +1283,8 @@
     "varFactLast": 126.7,
     "varFactMean3m": 98.12,
     "muestras": 43,
-    "probExito": 0.7967,
-    "riesgo": 0.2033,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7967,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1411,9 +1294,8 @@
     "varFactLast": 117.07,
     "varFactMean3m": 92.2,
     "muestras": 2189,
-    "probExito": 0.592,
-    "riesgo": 0.408,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.592,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1423,9 +1305,8 @@
     "varFactLast": 111.79,
     "varFactMean3m": 89.07,
     "muestras": 2756,
-    "probExito": 0.5969,
-    "riesgo": 0.4031,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5969,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1435,9 +1316,8 @@
     "varFactLast": 129.62,
     "varFactMean3m": 99.42,
     "muestras": 605,
-    "probExito": 0.4613,
-    "riesgo": 0.5387,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4613,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1447,9 +1327,8 @@
     "varFactLast": 120.51,
     "varFactMean3m": 93.88,
     "muestras": 227,
-    "probExito": 0.4344,
-    "riesgo": 0.5656,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4344,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1459,9 +1338,8 @@
     "varFactLast": 111.71,
     "varFactMean3m": 88.98,
     "muestras": 257,
-    "probExito": 0.5578,
-    "riesgo": 0.4422,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5578,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1471,9 +1349,8 @@
     "varFactLast": 133.92,
     "varFactMean3m": 102.12,
     "muestras": 48,
-    "probExito": 0.8019,
-    "riesgo": 0.1981,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8019,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1483,9 +1360,8 @@
     "varFactLast": 114.22,
     "varFactMean3m": 90.99,
     "muestras": 103,
-    "probExito": 0.6847,
-    "riesgo": 0.3153,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6847,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1495,9 +1371,8 @@
     "varFactLast": 115.52,
     "varFactMean3m": 89.93,
     "muestras": 43,
-    "probExito": 0.5012,
-    "riesgo": 0.4988,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5012,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1507,9 +1382,8 @@
     "varFactLast": 127.75,
     "varFactMean3m": 99.59,
     "muestras": 29,
-    "probExito": 0.53,
-    "riesgo": 0.47,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.53,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1519,9 +1393,8 @@
     "varFactLast": 118.63,
     "varFactMean3m": 93.06,
     "muestras": 400,
-    "probExito": 0.6229,
-    "riesgo": 0.3771,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6229,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1531,9 +1404,8 @@
     "varFactLast": 111.0,
     "varFactMean3m": 88.18,
     "muestras": 398,
-    "probExito": 0.6031,
-    "riesgo": 0.3969,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6031,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1543,9 +1415,8 @@
     "varFactLast": 121.94,
     "varFactMean3m": 95.08,
     "muestras": 145,
-    "probExito": 0.3652,
-    "riesgo": 0.6348,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3652,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1555,9 +1426,8 @@
     "varFactLast": 58.33,
     "varFactMean3m": 58.01,
     "muestras": 1088,
-    "probExito": 0.5156,
-    "riesgo": 0.4844,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5156,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1567,9 +1437,8 @@
     "varFactLast": 59.98,
     "varFactMean3m": 58.95,
     "muestras": 1947,
-    "probExito": 0.5224,
-    "riesgo": 0.4776,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5224,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1579,9 +1448,8 @@
     "varFactLast": 51.04,
     "varFactMean3m": 52.98,
     "muestras": 828,
-    "probExito": 0.3151,
-    "riesgo": 0.6849,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3151,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1591,9 +1459,8 @@
     "varFactLast": 46.87,
     "varFactMean3m": 49.64,
     "muestras": 9,
-    "probExito": 0.3136,
-    "riesgo": 0.6864,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3136,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1603,9 +1470,8 @@
     "varFactLast": 56.82,
     "varFactMean3m": 58.64,
     "muestras": 14,
-    "probExito": 0.8895,
-    "riesgo": 0.1105,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8895,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1615,9 +1481,8 @@
     "varFactLast": 42.3,
     "varFactMean3m": 47.53,
     "muestras": 12,
-    "probExito": 0.4369,
-    "riesgo": 0.5631,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4369,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1627,9 +1492,8 @@
     "varFactLast": 56.12,
     "varFactMean3m": 56.36,
     "muestras": 38,
-    "probExito": 0.6942,
-    "riesgo": 0.3058,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6942,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1639,9 +1503,8 @@
     "varFactLast": 63.72,
     "varFactMean3m": 61.6,
     "muestras": 22,
-    "probExito": 0.2686,
-    "riesgo": 0.7314,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2686,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1651,9 +1514,8 @@
     "varFactLast": 51.59,
     "varFactMean3m": 53.67,
     "muestras": 18,
-    "probExito": 0.2144,
-    "riesgo": 0.7856,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2144,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1663,9 +1525,8 @@
     "varFactLast": 57.94,
     "varFactMean3m": 57.68,
     "muestras": 48,
-    "probExito": 0.2801,
-    "riesgo": 0.7199,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2801,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1675,9 +1536,8 @@
     "varFactLast": 63.35,
     "varFactMean3m": 62.9,
     "muestras": 40,
-    "probExito": 0.4895,
-    "riesgo": 0.5105,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4895,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1687,9 +1547,8 @@
     "varFactLast": 52.33,
     "varFactMean3m": 53.57,
     "muestras": 20,
-    "probExito": 0.3609,
-    "riesgo": 0.6391,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3609,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1699,9 +1558,8 @@
     "varFactLast": 58.02,
     "varFactMean3m": 57.53,
     "muestras": 194,
-    "probExito": 0.6425,
-    "riesgo": 0.3575,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6425,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1711,9 +1569,8 @@
     "varFactLast": 61.76,
     "varFactMean3m": 59.83,
     "muestras": 267,
-    "probExito": 0.4972,
-    "riesgo": 0.5028,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4972,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1723,9 +1580,8 @@
     "varFactLast": 46.13,
     "varFactMean3m": 49.45,
     "muestras": 932,
-    "probExito": 0.4066,
-    "riesgo": 0.5934,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4066,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1735,9 +1591,8 @@
     "varFactLast": 60.08,
     "varFactMean3m": 59.16,
     "muestras": 181,
-    "probExito": 0.4292,
-    "riesgo": 0.5708,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4292,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1747,9 +1602,8 @@
     "varFactLast": 59.19,
     "varFactMean3m": 58.32,
     "muestras": 323,
-    "probExito": 0.5678,
-    "riesgo": 0.4322,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5678,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1759,9 +1613,8 @@
     "varFactLast": 49.29,
     "varFactMean3m": 51.4,
     "muestras": 244,
-    "probExito": 0.2939,
-    "riesgo": 0.7061,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2939,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1771,9 +1624,8 @@
     "varFactLast": 54.65,
     "varFactMean3m": 54.65,
     "muestras": 35,
-    "probExito": 0.1292,
-    "riesgo": 0.8708,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1292,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1783,9 +1635,8 @@
     "varFactLast": 64.8,
     "varFactMean3m": 63.24,
     "muestras": 29,
-    "probExito": 0.5569,
-    "riesgo": 0.4431,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5569,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1795,9 +1646,8 @@
     "varFactLast": 57.93,
     "varFactMean3m": 57.25,
     "muestras": 34,
-    "probExito": 0.6526,
-    "riesgo": 0.3474,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6526,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1807,9 +1657,8 @@
     "varFactLast": 59.07,
     "varFactMean3m": 59.04,
     "muestras": 63,
-    "probExito": 0.8328,
-    "riesgo": 0.1672,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8328,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1819,9 +1668,8 @@
     "varFactLast": 52.7,
     "varFactMean3m": 53.62,
     "muestras": 162,
-    "probExito": 0.3803,
-    "riesgo": 0.6197,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3803,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1831,9 +1679,8 @@
     "varFactLast": 48.69,
     "varFactMean3m": 50.89,
     "muestras": 46,
-    "probExito": 0.4708,
-    "riesgo": 0.5292,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4708,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1843,9 +1690,8 @@
     "varFactLast": 63.95,
     "varFactMean3m": 62.09,
     "muestras": 19,
-    "probExito": 0.0879,
-    "riesgo": 0.9121,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.0879,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1855,9 +1701,8 @@
     "varFactLast": 63.03,
     "varFactMean3m": 62.1,
     "muestras": 10,
-    "probExito": 0.2557,
-    "riesgo": 0.7443,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2557,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1867,9 +1712,8 @@
     "varFactLast": 55.23,
     "varFactMean3m": 57.52,
     "muestras": 11,
-    "probExito": 0.7536,
-    "riesgo": 0.2464,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7536,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -1879,9 +1723,8 @@
     "varFactLast": 65.47,
     "varFactMean3m": 64.08,
     "muestras": 14,
-    "probExito": 0.3182,
-    "riesgo": 0.6818,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3182,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1891,9 +1734,8 @@
     "varFactLast": 56.26,
     "varFactMean3m": 55.97,
     "muestras": 17,
-    "probExito": 0.3692,
-    "riesgo": 0.6308,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3692,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1903,9 +1745,8 @@
     "varFactLast": 56.53,
     "varFactMean3m": 57.14,
     "muestras": 26,
-    "probExito": 0.5069,
-    "riesgo": 0.4931,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5069,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1915,9 +1756,8 @@
     "varFactLast": 57.52,
     "varFactMean3m": 57.66,
     "muestras": 30,
-    "probExito": 0.4387,
-    "riesgo": 0.5613,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4387,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1927,9 +1767,8 @@
     "varFactLast": 47.18,
     "varFactMean3m": 49.55,
     "muestras": 62,
-    "probExito": 0.4755,
-    "riesgo": 0.5245,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4755,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -1939,9 +1778,8 @@
     "varFactLast": 59.67,
     "varFactMean3m": 59.12,
     "muestras": 7,
-    "probExito": 0.4032,
-    "riesgo": 0.5968,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4032,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1951,9 +1789,8 @@
     "varFactLast": 50.58,
     "varFactMean3m": 53.02,
     "muestras": 11,
-    "probExito": 0.3316,
-    "riesgo": 0.6684,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3316,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1963,9 +1800,8 @@
     "varFactLast": 61.95,
     "varFactMean3m": 59.81,
     "muestras": 15,
-    "probExito": 0.4199,
-    "riesgo": 0.5801,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4199,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1975,9 +1811,8 @@
     "varFactLast": 58.16,
     "varFactMean3m": 57.99,
     "muestras": 11,
-    "probExito": 0.3982,
-    "riesgo": 0.6018,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3982,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1987,9 +1822,8 @@
     "varFactLast": 54.98,
     "varFactMean3m": 55.69,
     "muestras": 70,
-    "probExito": 0.2421,
-    "riesgo": 0.7579,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2421,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -1999,9 +1833,8 @@
     "varFactLast": 64.15,
     "varFactMean3m": 62.48,
     "muestras": 87,
-    "probExito": 0.534,
-    "riesgo": 0.466,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.534,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2011,9 +1844,8 @@
     "varFactLast": 51.91,
     "varFactMean3m": 53.57,
     "muestras": 139,
-    "probExito": 0.3654,
-    "riesgo": 0.6346,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3654,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2023,9 +1855,8 @@
     "varFactLast": 70.37,
     "varFactMean3m": 65.87,
     "muestras": 39,
-    "probExito": 0.7275,
-    "riesgo": 0.2725,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7275,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2035,9 +1866,8 @@
     "varFactLast": 62.45,
     "varFactMean3m": 60.37,
     "muestras": 36,
-    "probExito": 0.5854,
-    "riesgo": 0.4146,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5854,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2047,9 +1877,8 @@
     "varFactLast": 53.0,
     "varFactMean3m": 53.85,
     "muestras": 45,
-    "probExito": 0.3781,
-    "riesgo": 0.6219,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3781,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2059,9 +1888,8 @@
     "varFactLast": 55.42,
     "varFactMean3m": 57.26,
     "muestras": 60,
-    "probExito": 0.3943,
-    "riesgo": 0.6057,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3943,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2071,9 +1899,8 @@
     "varFactLast": 60.78,
     "varFactMean3m": 60.4,
     "muestras": 60,
-    "probExito": 0.8109,
-    "riesgo": 0.1891,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8109,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2083,9 +1910,8 @@
     "varFactLast": 55.39,
     "varFactMean3m": 56.68,
     "muestras": 56,
-    "probExito": 0.7219,
-    "riesgo": 0.2781,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7219,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2095,9 +1921,8 @@
     "varFactLast": 61.59,
     "varFactMean3m": 61.66,
     "muestras": 56,
-    "probExito": 0.3858,
-    "riesgo": 0.6142,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3858,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2107,9 +1932,8 @@
     "varFactLast": 59.48,
     "varFactMean3m": 58.79,
     "muestras": 86,
-    "probExito": 0.5928,
-    "riesgo": 0.4072,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5928,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2119,9 +1943,8 @@
     "varFactLast": 47.37,
     "varFactMean3m": 50.71,
     "muestras": 36,
-    "probExito": 0.3805,
-    "riesgo": 0.6195,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3805,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2131,9 +1954,8 @@
     "varFactLast": 57.24,
     "varFactMean3m": 57.9,
     "muestras": 35,
-    "probExito": 0.6338,
-    "riesgo": 0.3662,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6338,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2143,9 +1965,8 @@
     "varFactLast": 62.86,
     "varFactMean3m": 60.07,
     "muestras": 25,
-    "probExito": 0.7301,
-    "riesgo": 0.2699,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7301,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2155,9 +1976,8 @@
     "varFactLast": 57.15,
     "varFactMean3m": 56.84,
     "muestras": 50,
-    "probExito": 0.5068,
-    "riesgo": 0.4932,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5068,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2167,9 +1987,8 @@
     "varFactLast": 59.38,
     "varFactMean3m": 59.65,
     "muestras": 30,
-    "probExito": 0.5787,
-    "riesgo": 0.4213,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5787,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2179,9 +1998,8 @@
     "varFactLast": 66.38,
     "varFactMean3m": 65.19,
     "muestras": 23,
-    "probExito": 0.5064,
-    "riesgo": 0.4936,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5064,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2191,9 +2009,8 @@
     "varFactLast": 56.13,
     "varFactMean3m": 55.69,
     "muestras": 25,
-    "probExito": 0.4411,
-    "riesgo": 0.5589,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4411,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2203,9 +2020,8 @@
     "varFactLast": 63.62,
     "varFactMean3m": 62.28,
     "muestras": 33,
-    "probExito": 0.2609,
-    "riesgo": 0.7391,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2609,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2215,9 +2031,8 @@
     "varFactLast": 66.61,
     "varFactMean3m": 63.69,
     "muestras": 21,
-    "probExito": 0.1233,
-    "riesgo": 0.8767,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1233,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2227,9 +2042,8 @@
     "varFactLast": 55.85,
     "varFactMean3m": 56.82,
     "muestras": 42,
-    "probExito": 0.6004,
-    "riesgo": 0.3996,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6004,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2239,9 +2053,8 @@
     "varFactLast": 55.0,
     "varFactMean3m": 56.16,
     "muestras": 24,
-    "probExito": 0.8111,
-    "riesgo": 0.1889,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8111,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2251,9 +2064,8 @@
     "varFactLast": 66.35,
     "varFactMean3m": 64.78,
     "muestras": 21,
-    "probExito": 0.7405,
-    "riesgo": 0.2595,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7405,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2263,9 +2075,8 @@
     "varFactLast": 60.01,
     "varFactMean3m": 60.74,
     "muestras": 13,
-    "probExito": 0.5582,
-    "riesgo": 0.4418,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5582,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2275,9 +2086,8 @@
     "varFactLast": 61.87,
     "varFactMean3m": 60.77,
     "muestras": 247,
-    "probExito": 0.2449,
-    "riesgo": 0.7551,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2449,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2287,9 +2097,8 @@
     "varFactLast": 59.38,
     "varFactMean3m": 58.46,
     "muestras": 516,
-    "probExito": 0.5568,
-    "riesgo": 0.4432,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5568,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2299,9 +2108,8 @@
     "varFactLast": 47.12,
     "varFactMean3m": 50.19,
     "muestras": 248,
-    "probExito": 0.3617,
-    "riesgo": 0.6383,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3617,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2311,9 +2119,8 @@
     "varFactLast": 47.92,
     "varFactMean3m": 50.74,
     "muestras": 21,
-    "probExito": 0.2487,
-    "riesgo": 0.7513,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2487,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2323,9 +2130,8 @@
     "varFactLast": 66.42,
     "varFactMean3m": 62.62,
     "muestras": 9,
-    "probExito": 0.3756,
-    "riesgo": 0.6244,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3756,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2335,9 +2141,8 @@
     "varFactLast": 59.17,
     "varFactMean3m": 59.52,
     "muestras": 17,
-    "probExito": 0.3931,
-    "riesgo": 0.6069,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3931,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2347,9 +2152,8 @@
     "varFactLast": 50.88,
     "varFactMean3m": 52.87,
     "muestras": 52,
-    "probExito": 0.3278,
-    "riesgo": 0.6722,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3278,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2359,9 +2163,8 @@
     "varFactLast": 62.06,
     "varFactMean3m": 60.16,
     "muestras": 23,
-    "probExito": 0.3021,
-    "riesgo": 0.6979,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3021,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2371,9 +2174,8 @@
     "varFactLast": 43.71,
     "varFactMean3m": 47.5,
     "muestras": 11,
-    "probExito": 0.3434,
-    "riesgo": 0.6566,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3434,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2383,9 +2185,8 @@
     "varFactLast": 63.8,
     "varFactMean3m": 62.21,
     "muestras": 31,
-    "probExito": 0.0788,
-    "riesgo": 0.9212,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.0788,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2395,9 +2196,8 @@
     "varFactLast": 58.87,
     "varFactMean3m": 58.3,
     "muestras": 24,
-    "probExito": 0.8596,
-    "riesgo": 0.1404,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8596,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2407,9 +2207,8 @@
     "varFactLast": 47.72,
     "varFactMean3m": 50.65,
     "muestras": 34,
-    "probExito": 0.48,
-    "riesgo": 0.52,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.48,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2419,9 +2218,8 @@
     "varFactLast": 108.44,
     "varFactMean3m": 91.02,
     "muestras": 4191,
-    "probExito": 0.6166,
-    "riesgo": 0.3834,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6166,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2431,9 +2229,8 @@
     "varFactLast": 105.07,
     "varFactMean3m": 88.65,
     "muestras": 4454,
-    "probExito": 0.5448,
-    "riesgo": 0.4552,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5448,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2443,9 +2240,8 @@
     "varFactLast": 129.15,
     "varFactMean3m": 102.12,
     "muestras": 1932,
-    "probExito": 0.2202,
-    "riesgo": 0.7798,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2202,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2455,9 +2251,8 @@
     "varFactLast": 97.69,
     "varFactMean3m": 84.76,
     "muestras": 28,
-    "probExito": 0.5649,
-    "riesgo": 0.4351,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5649,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2467,9 +2262,8 @@
     "varFactLast": 105.98,
     "varFactMean3m": 89.8,
     "muestras": 24,
-    "probExito": 0.8627,
-    "riesgo": 0.1373,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8627,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2479,9 +2273,8 @@
     "varFactLast": 105.8,
     "varFactMean3m": 89.21,
     "muestras": 6,
-    "probExito": 0.7214,
-    "riesgo": 0.2786,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7214,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2491,9 +2284,8 @@
     "varFactLast": 110.12,
     "varFactMean3m": 91.95,
     "muestras": 130,
-    "probExito": 0.7209,
-    "riesgo": 0.2791,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7209,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2503,9 +2295,8 @@
     "varFactLast": 114.17,
     "varFactMean3m": 93.11,
     "muestras": 95,
-    "probExito": 0.4495,
-    "riesgo": 0.5505,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4495,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2515,9 +2306,8 @@
     "varFactLast": 115.47,
     "varFactMean3m": 94.28,
     "muestras": 44,
-    "probExito": 0.4698,
-    "riesgo": 0.5302,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4698,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2527,9 +2317,8 @@
     "varFactLast": 107.71,
     "varFactMean3m": 90.71,
     "muestras": 90,
-    "probExito": 0.3224,
-    "riesgo": 0.6776,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3224,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2539,9 +2328,8 @@
     "varFactLast": 104.22,
     "varFactMean3m": 87.38,
     "muestras": 85,
-    "probExito": 0.8396,
-    "riesgo": 0.1604,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8396,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2551,9 +2339,8 @@
     "varFactLast": 111.5,
     "varFactMean3m": 91.66,
     "muestras": 71,
-    "probExito": 0.5722,
-    "riesgo": 0.4278,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5722,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2563,9 +2350,8 @@
     "varFactLast": 107.58,
     "varFactMean3m": 90.16,
     "muestras": 1029,
-    "probExito": 0.4581,
-    "riesgo": 0.5419,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4581,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2575,9 +2361,8 @@
     "varFactLast": 99.36,
     "varFactMean3m": 85.5,
     "muestras": 1539,
-    "probExito": 0.7368,
-    "riesgo": 0.2632,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7368,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2587,9 +2372,8 @@
     "varFactLast": 117.97,
     "varFactMean3m": 95.36,
     "muestras": 1499,
-    "probExito": 0.4146,
-    "riesgo": 0.5854,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4146,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2599,9 +2383,8 @@
     "varFactLast": 104.46,
     "varFactMean3m": 88.85,
     "muestras": 1346,
-    "probExito": 0.412,
-    "riesgo": 0.588,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.412,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2611,9 +2394,8 @@
     "varFactLast": 109.3,
     "varFactMean3m": 90.79,
     "muestras": 1060,
-    "probExito": 0.7112,
-    "riesgo": 0.2888,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7112,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2623,9 +2405,8 @@
     "varFactLast": 124.93,
     "varFactMean3m": 99.64,
     "muestras": 628,
-    "probExito": 0.6327,
-    "riesgo": 0.3673,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6327,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2635,9 +2416,8 @@
     "varFactLast": 116.75,
     "varFactMean3m": 95.6,
     "muestras": 88,
-    "probExito": 0.3016,
-    "riesgo": 0.6984,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3016,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2647,9 +2427,8 @@
     "varFactLast": 110.03,
     "varFactMean3m": 90.99,
     "muestras": 93,
-    "probExito": 0.6678,
-    "riesgo": 0.3322,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6678,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2659,9 +2438,8 @@
     "varFactLast": 120.83,
     "varFactMean3m": 98.28,
     "muestras": 57,
-    "probExito": 0.3846,
-    "riesgo": 0.6154,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3846,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2671,9 +2449,8 @@
     "varFactLast": 103.77,
     "varFactMean3m": 88.79,
     "muestras": 459,
-    "probExito": 0.4997,
-    "riesgo": 0.5003,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4997,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2683,9 +2460,8 @@
     "varFactLast": 112.01,
     "varFactMean3m": 92.57,
     "muestras": 403,
-    "probExito": 0.4899,
-    "riesgo": 0.5101,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4899,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2695,9 +2471,8 @@
     "varFactLast": 128.42,
     "varFactMean3m": 102.05,
     "muestras": 100,
-    "probExito": 0.5827,
-    "riesgo": 0.4173,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5827,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2707,9 +2482,8 @@
     "varFactLast": 118.16,
     "varFactMean3m": 95.37,
     "muestras": 32,
-    "probExito": 0.4782,
-    "riesgo": 0.5218,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4782,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2719,9 +2493,8 @@
     "varFactLast": 123.05,
     "varFactMean3m": 98.63,
     "muestras": 34,
-    "probExito": 0.8569,
-    "riesgo": 0.1431,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8569,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2731,9 +2504,8 @@
     "varFactLast": 129.83,
     "varFactMean3m": 104.51,
     "muestras": 17,
-    "probExito": 0.3405,
-    "riesgo": 0.6595,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3405,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2743,9 +2515,8 @@
     "varFactLast": 100.72,
     "varFactMean3m": 86.47,
     "muestras": 101,
-    "probExito": 0.8345,
-    "riesgo": 0.1655,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8345,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2755,9 +2526,8 @@
     "varFactLast": 110.68,
     "varFactMean3m": 91.07,
     "muestras": 69,
-    "probExito": 0.3698,
-    "riesgo": 0.6302,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3698,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2767,9 +2537,8 @@
     "varFactLast": 109.19,
     "varFactMean3m": 91.3,
     "muestras": 21,
-    "probExito": 0.6985,
-    "riesgo": 0.3015,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6985,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2779,9 +2548,8 @@
     "varFactLast": 104.06,
     "varFactMean3m": 88.77,
     "muestras": 193,
-    "probExito": 0.1882,
-    "riesgo": 0.8118,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1882,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2791,9 +2559,8 @@
     "varFactLast": 102.75,
     "varFactMean3m": 86.99,
     "muestras": 99,
-    "probExito": 0.5926,
-    "riesgo": 0.4074,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5926,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2803,9 +2570,8 @@
     "varFactLast": 115.37,
     "varFactMean3m": 94.77,
     "muestras": 40,
-    "probExito": 0.7847,
-    "riesgo": 0.2153,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7847,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2815,9 +2581,8 @@
     "varFactLast": 100.75,
     "varFactMean3m": 86.48,
     "muestras": 20,
-    "probExito": 0.775,
-    "riesgo": 0.225,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.775,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2827,9 +2592,8 @@
     "varFactLast": 104.96,
     "varFactMean3m": 86.75,
     "muestras": 26,
-    "probExito": 0.7469,
-    "riesgo": 0.2531,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7469,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2839,9 +2603,8 @@
     "varFactLast": 117.1,
     "varFactMean3m": 93.14,
     "muestras": 9,
-    "probExito": 0.4442,
-    "riesgo": 0.5558,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4442,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2851,9 +2614,8 @@
     "varFactLast": 107.31,
     "varFactMean3m": 90.15,
     "muestras": 387,
-    "probExito": 0.327,
-    "riesgo": 0.673,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.327,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2863,9 +2625,8 @@
     "varFactLast": 106.05,
     "varFactMean3m": 88.93,
     "muestras": 353,
-    "probExito": 0.7436,
-    "riesgo": 0.2564,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7436,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2875,9 +2636,8 @@
     "varFactLast": 119.76,
     "varFactMean3m": 96.43,
     "muestras": 320,
-    "probExito": 0.6036,
-    "riesgo": 0.3964,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6036,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2887,9 +2647,8 @@
     "varFactLast": 117.25,
     "varFactMean3m": 96.55,
     "muestras": 181,
-    "probExito": 0.8593,
-    "riesgo": 0.1407,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8593,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2899,9 +2658,8 @@
     "varFactLast": 115.13,
     "varFactMean3m": 94.05,
     "muestras": 162,
-    "probExito": 0.4647,
-    "riesgo": 0.5353,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4647,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2911,9 +2669,8 @@
     "varFactLast": 127.98,
     "varFactMean3m": 102.08,
     "muestras": 66,
-    "probExito": 0.7538,
-    "riesgo": 0.2462,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7538,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2923,9 +2680,8 @@
     "varFactLast": 108.17,
     "varFactMean3m": 90.68,
     "muestras": 100,
-    "probExito": 0.9269,
-    "riesgo": 0.0731,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9269,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2935,9 +2691,8 @@
     "varFactLast": 104.15,
     "varFactMean3m": 87.52,
     "muestras": 151,
-    "probExito": 0.7089,
-    "riesgo": 0.2911,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7089,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -2947,9 +2702,8 @@
     "varFactLast": 111.27,
     "varFactMean3m": 92.55,
     "muestras": 61,
-    "probExito": 0.3924,
-    "riesgo": 0.6076,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3924,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -2959,9 +2713,8 @@
     "varFactLast": 102.35,
     "varFactMean3m": 87.39,
     "muestras": 140,
-    "probExito": 0.5372,
-    "riesgo": 0.4628,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5372,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2971,9 +2724,8 @@
     "varFactLast": 104.4,
     "varFactMean3m": 87.81,
     "muestras": 177,
-    "probExito": 0.4682,
-    "riesgo": 0.5318,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4682,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2983,9 +2735,8 @@
     "varFactLast": 120.72,
     "varFactMean3m": 97.32,
     "muestras": 64,
-    "probExito": 0.5135,
-    "riesgo": 0.4865,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5135,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -2995,9 +2746,8 @@
     "varFactLast": 104.37,
     "varFactMean3m": 88.85,
     "muestras": 101,
-    "probExito": 0.7722,
-    "riesgo": 0.2278,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7722,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3007,9 +2757,8 @@
     "varFactLast": 104.35,
     "varFactMean3m": 87.94,
     "muestras": 116,
-    "probExito": 0.8179,
-    "riesgo": 0.1821,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8179,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3019,9 +2768,8 @@
     "varFactLast": 120.26,
     "varFactMean3m": 97.19,
     "muestras": 53,
-    "probExito": 0.7806,
-    "riesgo": 0.2194,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7806,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3031,9 +2779,8 @@
     "varFactLast": 112.23,
     "varFactMean3m": 92.74,
     "muestras": 85,
-    "probExito": 0.5233,
-    "riesgo": 0.4767,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5233,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3043,9 +2790,8 @@
     "varFactLast": 107.54,
     "varFactMean3m": 89.43,
     "muestras": 63,
-    "probExito": 0.6286,
-    "riesgo": 0.3714,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6286,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3055,9 +2801,8 @@
     "varFactLast": 121.02,
     "varFactMean3m": 96.07,
     "muestras": 63,
-    "probExito": 0.2695,
-    "riesgo": 0.7305,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2695,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3067,9 +2812,8 @@
     "varFactLast": 103.89,
     "varFactMean3m": 88.62,
     "muestras": 78,
-    "probExito": 0.3462,
-    "riesgo": 0.6538,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3462,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3079,9 +2823,8 @@
     "varFactLast": 104.56,
     "varFactMean3m": 87.48,
     "muestras": 80,
-    "probExito": 0.4467,
-    "riesgo": 0.5533,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4467,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3091,9 +2834,8 @@
     "varFactLast": 112.63,
     "varFactMean3m": 92.11,
     "muestras": 50,
-    "probExito": 0.168,
-    "riesgo": 0.832,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.168,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3103,9 +2845,8 @@
     "varFactLast": 104.27,
     "varFactMean3m": 88.87,
     "muestras": 44,
-    "probExito": 0.4834,
-    "riesgo": 0.5166,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4834,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3115,9 +2856,8 @@
     "varFactLast": 105.55,
     "varFactMean3m": 88.57,
     "muestras": 33,
-    "probExito": 0.7363,
-    "riesgo": 0.2637,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7363,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3127,9 +2867,8 @@
     "varFactLast": 110.99,
     "varFactMean3m": 91.51,
     "muestras": 13,
-    "probExito": 0.6272,
-    "riesgo": 0.3728,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6272,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3139,9 +2878,8 @@
     "varFactLast": 105.84,
     "varFactMean3m": 89.69,
     "muestras": 1335,
-    "probExito": 0.3879,
-    "riesgo": 0.6121,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3879,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3151,9 +2889,8 @@
     "varFactLast": 104.07,
     "varFactMean3m": 88.06,
     "muestras": 1208,
-    "probExito": 0.6616,
-    "riesgo": 0.3384,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6616,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3163,9 +2900,8 @@
     "varFactLast": 126.67,
     "varFactMean3m": 101.12,
     "muestras": 541,
-    "probExito": 0.5369,
-    "riesgo": 0.4631,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5369,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3175,9 +2911,8 @@
     "varFactLast": 107.58,
     "varFactMean3m": 90.3,
     "muestras": 63,
-    "probExito": 0.1944,
-    "riesgo": 0.8056,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1944,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3187,9 +2922,8 @@
     "varFactLast": 106.69,
     "varFactMean3m": 88.87,
     "muestras": 55,
-    "probExito": 0.8945,
-    "riesgo": 0.1055,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8945,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3199,9 +2933,8 @@
     "varFactLast": 115.6,
     "varFactMean3m": 94.33,
     "muestras": 11,
-    "probExito": 0.5807,
-    "riesgo": 0.4193,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5807,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3211,9 +2944,8 @@
     "varFactLast": 96.7,
     "varFactMean3m": 84.22,
     "muestras": 53,
-    "probExito": 0.2216,
-    "riesgo": 0.7784,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2216,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3223,9 +2955,8 @@
     "varFactLast": 95.45,
     "varFactMean3m": 83.35,
     "muestras": 29,
-    "probExito": 0.4119,
-    "riesgo": 0.5881,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4119,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3235,9 +2966,8 @@
     "varFactLast": 120.18,
     "varFactMean3m": 96.89,
     "muestras": 22,
-    "probExito": 0.856,
-    "riesgo": 0.144,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.856,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3247,9 +2977,8 @@
     "varFactLast": 99.05,
     "varFactMean3m": 85.76,
     "muestras": 171,
-    "probExito": 0.516,
-    "riesgo": 0.484,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.516,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3259,9 +2988,8 @@
     "varFactLast": 101.73,
     "varFactMean3m": 86.4,
     "muestras": 133,
-    "probExito": 0.6327,
-    "riesgo": 0.3673,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6327,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3271,9 +2999,8 @@
     "varFactLast": 105.1,
     "varFactMean3m": 88.11,
     "muestras": 66,
-    "probExito": 0.512,
-    "riesgo": 0.488,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.512,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3283,9 +3010,8 @@
     "varFactLast": 65.98,
     "varFactMean3m": 58.28,
     "muestras": 7,
-    "probExito": 0.2145,
-    "riesgo": 0.7855,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2145,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3295,9 +3021,8 @@
     "varFactLast": 52.78,
     "varFactMean3m": 44.91,
     "muestras": 8,
-    "probExito": 0.5691,
-    "riesgo": 0.4309,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5691,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3307,9 +3032,8 @@
     "varFactLast": 51.86,
     "varFactMean3m": 43.94,
     "muestras": 11,
-    "probExito": 0.3817,
-    "riesgo": 0.6183,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3817,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3319,9 +3043,8 @@
     "varFactLast": 52.41,
     "varFactMean3m": 44.51,
     "muestras": 9,
-    "probExito": 0.5249,
-    "riesgo": 0.4751,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5249,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3331,9 +3054,8 @@
     "varFactLast": 49.4,
     "varFactMean3m": 41.37,
     "muestras": 5,
-    "probExito": 0.1923,
-    "riesgo": 0.8077,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1923,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3343,9 +3065,8 @@
     "varFactLast": 67.67,
     "varFactMean3m": 64.37,
     "muestras": 7220,
-    "probExito": 0.6727,
-    "riesgo": 0.3273,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6727,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3355,9 +3076,8 @@
     "varFactLast": 64.31,
     "varFactMean3m": 60.31,
     "muestras": 22379,
-    "probExito": 0.5694,
-    "riesgo": 0.4306,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5694,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3367,9 +3087,8 @@
     "varFactLast": 63.97,
     "varFactMean3m": 65.22,
     "muestras": 2315,
-    "probExito": 0.6714,
-    "riesgo": 0.3286,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6714,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3379,9 +3098,8 @@
     "varFactLast": 72.46,
     "varFactMean3m": 67.06,
     "muestras": 104,
-    "probExito": 0.4754,
-    "riesgo": 0.5246,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4754,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3391,9 +3109,8 @@
     "varFactLast": 66.3,
     "varFactMean3m": 65.68,
     "muestras": 289,
-    "probExito": 0.4289,
-    "riesgo": 0.5711,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4289,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3403,9 +3120,8 @@
     "varFactLast": 64.41,
     "varFactMean3m": 66.48,
     "muestras": 19,
-    "probExito": 0.666,
-    "riesgo": 0.334,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.666,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3415,9 +3131,8 @@
     "varFactLast": 67.18,
     "varFactMean3m": 63.28,
     "muestras": 258,
-    "probExito": 0.6313,
-    "riesgo": 0.3687,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6313,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3427,9 +3142,8 @@
     "varFactLast": 64.35,
     "varFactMean3m": 58.9,
     "muestras": 756,
-    "probExito": 0.7249,
-    "riesgo": 0.2751,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7249,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3439,9 +3153,8 @@
     "varFactLast": 67.96,
     "varFactMean3m": 62.27,
     "muestras": 74,
-    "probExito": 0.5163,
-    "riesgo": 0.4837,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5163,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3451,9 +3164,8 @@
     "varFactLast": 65.8,
     "varFactMean3m": 64.2,
     "muestras": 383,
-    "probExito": 0.494,
-    "riesgo": 0.506,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.494,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3463,9 +3175,8 @@
     "varFactLast": 62.45,
     "varFactMean3m": 61.09,
     "muestras": 631,
-    "probExito": 0.6443,
-    "riesgo": 0.3557,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6443,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3475,9 +3186,8 @@
     "varFactLast": 61.77,
     "varFactMean3m": 68.27,
     "muestras": 116,
-    "probExito": 0.7054,
-    "riesgo": 0.2946,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7054,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3487,9 +3197,8 @@
     "varFactLast": 67.77,
     "varFactMean3m": 63.33,
     "muestras": 5642,
-    "probExito": 0.5978,
-    "riesgo": 0.4022,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5978,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3499,9 +3208,8 @@
     "varFactLast": 65.99,
     "varFactMean3m": 61.28,
     "muestras": 11880,
-    "probExito": 0.9539,
-    "riesgo": 0.0461,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9539,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3511,9 +3219,8 @@
     "varFactLast": 65.31,
     "varFactMean3m": 65.44,
     "muestras": 4094,
-    "probExito": 0.4841,
-    "riesgo": 0.5159,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4841,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3523,9 +3230,8 @@
     "varFactLast": 67.2,
     "varFactMean3m": 65.31,
     "muestras": 2252,
-    "probExito": 0.6804,
-    "riesgo": 0.3196,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6804,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3535,9 +3241,8 @@
     "varFactLast": 64.73,
     "varFactMean3m": 60.3,
     "muestras": 7503,
-    "probExito": 0.3461,
-    "riesgo": 0.6539,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3461,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3547,9 +3252,8 @@
     "varFactLast": 64.73,
     "varFactMean3m": 66.81,
     "muestras": 957,
-    "probExito": 0.4998,
-    "riesgo": 0.5002,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4998,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3559,9 +3263,8 @@
     "varFactLast": 71.04,
     "varFactMean3m": 66.01,
     "muestras": 260,
-    "probExito": 0.6329,
-    "riesgo": 0.3671,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6329,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3571,9 +3274,8 @@
     "varFactLast": 68.52,
     "varFactMean3m": 65.03,
     "muestras": 821,
-    "probExito": 0.4241,
-    "riesgo": 0.5759,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4241,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3583,9 +3285,8 @@
     "varFactLast": 69.97,
     "varFactMean3m": 70.62,
     "muestras": 93,
-    "probExito": 0.4427,
-    "riesgo": 0.5573,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4427,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3595,9 +3296,8 @@
     "varFactLast": 69.51,
     "varFactMean3m": 65.67,
     "muestras": 517,
-    "probExito": 0.654,
-    "riesgo": 0.346,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.654,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3607,9 +3307,8 @@
     "varFactLast": 65.36,
     "varFactMean3m": 62.59,
     "muestras": 2428,
-    "probExito": 0.6633,
-    "riesgo": 0.3367,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6633,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3619,9 +3318,8 @@
     "varFactLast": 65.61,
     "varFactMean3m": 68.31,
     "muestras": 133,
-    "probExito": 0.2262,
-    "riesgo": 0.7738,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2262,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3631,9 +3329,8 @@
     "varFactLast": 65.89,
     "varFactMean3m": 65.42,
     "muestras": 119,
-    "probExito": 0.4879,
-    "riesgo": 0.5121,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4879,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3643,9 +3340,8 @@
     "varFactLast": 62.87,
     "varFactMean3m": 59.95,
     "muestras": 346,
-    "probExito": 0.6742,
-    "riesgo": 0.3258,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6742,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3655,9 +3351,8 @@
     "varFactLast": 72.98,
     "varFactMean3m": 69.6,
     "muestras": 36,
-    "probExito": 0.2067,
-    "riesgo": 0.7933,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2067,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3667,9 +3362,8 @@
     "varFactLast": 68.25,
     "varFactMean3m": 66.88,
     "muestras": 172,
-    "probExito": 0.4049,
-    "riesgo": 0.5951,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4049,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3679,9 +3373,8 @@
     "varFactLast": 65.46,
     "varFactMean3m": 65.27,
     "muestras": 452,
-    "probExito": 0.4987,
-    "riesgo": 0.5013,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4987,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3691,9 +3384,8 @@
     "varFactLast": 62.91,
     "varFactMean3m": 67.58,
     "muestras": 37,
-    "probExito": 0.5373,
-    "riesgo": 0.4627,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5373,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3703,9 +3395,8 @@
     "varFactLast": 67.12,
     "varFactMean3m": 63.05,
     "muestras": 265,
-    "probExito": 0.6132,
-    "riesgo": 0.3868,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6132,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3715,9 +3406,8 @@
     "varFactLast": 64.03,
     "varFactMean3m": 60.36,
     "muestras": 834,
-    "probExito": 0.6723,
-    "riesgo": 0.3277,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6723,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3727,9 +3417,8 @@
     "varFactLast": 70.18,
     "varFactMean3m": 71.72,
     "muestras": 61,
-    "probExito": 0.7214,
-    "riesgo": 0.2786,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7214,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3739,9 +3428,8 @@
     "varFactLast": 62.99,
     "varFactMean3m": 66.05,
     "muestras": 97,
-    "probExito": 0.4606,
-    "riesgo": 0.5394,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4606,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3751,9 +3439,8 @@
     "varFactLast": 64.7,
     "varFactMean3m": 61.18,
     "muestras": 292,
-    "probExito": 0.5719,
-    "riesgo": 0.4281,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5719,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3763,9 +3450,8 @@
     "varFactLast": 60.9,
     "varFactMean3m": 73.8,
     "muestras": 18,
-    "probExito": 0.3947,
-    "riesgo": 0.6053,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3947,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3775,9 +3461,8 @@
     "varFactLast": 66.72,
     "varFactMean3m": 63.53,
     "muestras": 777,
-    "probExito": 0.156,
-    "riesgo": 0.844,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.156,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3787,9 +3472,8 @@
     "varFactLast": 64.0,
     "varFactMean3m": 60.55,
     "muestras": 2680,
-    "probExito": 0.7462,
-    "riesgo": 0.2538,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7462,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3799,9 +3483,8 @@
     "varFactLast": 64.08,
     "varFactMean3m": 68.14,
     "muestras": 575,
-    "probExito": 0.5695,
-    "riesgo": 0.4305,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5695,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3811,9 +3494,8 @@
     "varFactLast": 69.69,
     "varFactMean3m": 67.77,
     "muestras": 288,
-    "probExito": 0.6425,
-    "riesgo": 0.3575,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6425,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3823,9 +3505,8 @@
     "varFactLast": 66.15,
     "varFactMean3m": 63.28,
     "muestras": 914,
-    "probExito": 0.5328,
-    "riesgo": 0.4672,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5328,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3835,9 +3516,8 @@
     "varFactLast": 62.57,
     "varFactMean3m": 72.14,
     "muestras": 92,
-    "probExito": 0.3007,
-    "riesgo": 0.6993,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3007,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3847,9 +3527,8 @@
     "varFactLast": 64.75,
     "varFactMean3m": 62.74,
     "muestras": 557,
-    "probExito": 0.6202,
-    "riesgo": 0.3798,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6202,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3859,9 +3538,8 @@
     "varFactLast": 61.46,
     "varFactMean3m": 59.35,
     "muestras": 1031,
-    "probExito": 0.7271,
-    "riesgo": 0.2729,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7271,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -3871,9 +3549,8 @@
     "varFactLast": 62.53,
     "varFactMean3m": 64.8,
     "muestras": 138,
-    "probExito": 0.5625,
-    "riesgo": 0.4375,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5625,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3883,9 +3560,8 @@
     "varFactLast": 62.73,
     "varFactMean3m": 64.88,
     "muestras": 436,
-    "probExito": 0.479,
-    "riesgo": 0.521,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.479,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3895,9 +3571,8 @@
     "varFactLast": 61.62,
     "varFactMean3m": 60.74,
     "muestras": 1207,
-    "probExito": 0.5346,
-    "riesgo": 0.4654,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5346,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3907,9 +3582,8 @@
     "varFactLast": 61.94,
     "varFactMean3m": 70.81,
     "muestras": 166,
-    "probExito": 0.3734,
-    "riesgo": 0.6266,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3734,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3919,9 +3593,8 @@
     "varFactLast": 66.83,
     "varFactMean3m": 66.23,
     "muestras": 351,
-    "probExito": 0.4784,
-    "riesgo": 0.5216,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4784,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3931,9 +3604,8 @@
     "varFactLast": 66.41,
     "varFactMean3m": 63.72,
     "muestras": 1004,
-    "probExito": 0.6924,
-    "riesgo": 0.3076,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6924,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3943,9 +3615,8 @@
     "varFactLast": 68.33,
     "varFactMean3m": 70.47,
     "muestras": 151,
-    "probExito": 0.5248,
-    "riesgo": 0.4752,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5248,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3955,9 +3626,8 @@
     "varFactLast": 67.46,
     "varFactMean3m": 65.05,
     "muestras": 211,
-    "probExito": 0.5828,
-    "riesgo": 0.4172,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5828,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3967,9 +3637,8 @@
     "varFactLast": 66.43,
     "varFactMean3m": 62.05,
     "muestras": 537,
-    "probExito": 0.5861,
-    "riesgo": 0.4139,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5861,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -3979,9 +3648,8 @@
     "varFactLast": 66.25,
     "varFactMean3m": 70.45,
     "muestras": 100,
-    "probExito": 0.4345,
-    "riesgo": 0.5655,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4345,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -3991,9 +3659,8 @@
     "varFactLast": 67.08,
     "varFactMean3m": 65.53,
     "muestras": 200,
-    "probExito": 0.4022,
-    "riesgo": 0.5978,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4022,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -4003,9 +3670,8 @@
     "varFactLast": 64.87,
     "varFactMean3m": 63.34,
     "muestras": 560,
-    "probExito": 0.3893,
-    "riesgo": 0.6107,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3893,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -4015,9 +3681,8 @@
     "varFactLast": 66.27,
     "varFactMean3m": 69.01,
     "muestras": 104,
-    "probExito": 0.5276,
-    "riesgo": 0.4724,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5276,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -4027,9 +3692,8 @@
     "varFactLast": 62.52,
     "varFactMean3m": 70.1,
     "muestras": 172,
-    "probExito": 0.5439,
-    "riesgo": 0.4561,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5439,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -4039,9 +3703,8 @@
     "varFactLast": 59.01,
     "varFactMean3m": 66.13,
     "muestras": 243,
-    "probExito": 0.9052,
-    "riesgo": 0.0948,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9052,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -4051,9 +3714,8 @@
     "varFactLast": 69.72,
     "varFactMean3m": 74.63,
     "muestras": 50,
-    "probExito": 0.7033,
-    "riesgo": 0.2967,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7033,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -4063,9 +3725,8 @@
     "varFactLast": 68.02,
     "varFactMean3m": 64.63,
     "muestras": 2159,
-    "probExito": 0.5175,
-    "riesgo": 0.4825,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5175,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -4075,9 +3736,8 @@
     "varFactLast": 62.74,
     "varFactMean3m": 58.03,
     "muestras": 7860,
-    "probExito": 0.6533,
-    "riesgo": 0.3467,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6533,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -4087,9 +3747,8 @@
     "varFactLast": 66.31,
     "varFactMean3m": 64.51,
     "muestras": 742,
-    "probExito": 0.4422,
-    "riesgo": 0.5578,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4422,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -4099,9 +3758,8 @@
     "varFactLast": 66.04,
     "varFactMean3m": 66.54,
     "muestras": 153,
-    "probExito": 0.5517,
-    "riesgo": 0.4483,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5517,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -4111,9 +3769,8 @@
     "varFactLast": 67.38,
     "varFactMean3m": 63.61,
     "muestras": 401,
-    "probExito": 0.2816,
-    "riesgo": 0.7184,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2816,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -4123,9 +3780,8 @@
     "varFactLast": 61.41,
     "varFactMean3m": 70.26,
     "muestras": 36,
-    "probExito": 0.7794,
-    "riesgo": 0.2206,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7794,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "micro",
@@ -4135,9 +3791,8 @@
     "varFactLast": 62.45,
     "varFactMean3m": 63.25,
     "muestras": 213,
-    "probExito": 0.4936,
-    "riesgo": 0.5064,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4936,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -4147,9 +3802,8 @@
     "varFactLast": 56.84,
     "varFactMean3m": 57.61,
     "muestras": 195,
-    "probExito": 0.4464,
-    "riesgo": 0.5536,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4464,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -4159,9 +3813,8 @@
     "varFactLast": 64.24,
     "varFactMean3m": 74.72,
     "muestras": 59,
-    "probExito": 0.1156,
-    "riesgo": 0.8844,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1156,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "micro",
@@ -4171,9 +3824,8 @@
     "varFactLast": 65.32,
     "varFactMean3m": 63.84,
     "muestras": 432,
-    "probExito": 0.4962,
-    "riesgo": 0.5038,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4962,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -4183,9 +3835,8 @@
     "varFactLast": 69.09,
     "varFactMean3m": 63.92,
     "muestras": 1232,
-    "probExito": 0.5337,
-    "riesgo": 0.4663,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5337,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "micro",
@@ -4195,9 +3846,8 @@
     "varFactLast": 64.74,
     "varFactMean3m": 65.15,
     "muestras": 158,
-    "probExito": 0.5125,
-    "riesgo": 0.4875,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5125,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4207,9 +3857,8 @@
     "varFactLast": 139.6,
     "varFactMean3m": 109.15,
     "muestras": 11,
-    "probExito": 0.8415,
-    "riesgo": 0.1585,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8415,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4219,9 +3868,8 @@
     "varFactLast": 146.31,
     "varFactMean3m": 113.05,
     "muestras": 36,
-    "probExito": 0.6567,
-    "riesgo": 0.3433,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6567,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4231,9 +3879,8 @@
     "varFactLast": 132.39,
     "varFactMean3m": 104.75,
     "muestras": 10,
-    "probExito": 0.409,
-    "riesgo": 0.591,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.409,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4243,9 +3890,8 @@
     "varFactLast": 123.95,
     "varFactMean3m": 99.36,
     "muestras": 45,
-    "probExito": 0.7112,
-    "riesgo": 0.2888,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7112,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4255,9 +3901,8 @@
     "varFactLast": 145.61,
     "varFactMean3m": 112.81,
     "muestras": 8,
-    "probExito": 0.3977,
-    "riesgo": 0.6023,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3977,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4267,9 +3912,8 @@
     "varFactLast": 156.05,
     "varFactMean3m": 119.18,
     "muestras": 19,
-    "probExito": 0.5237,
-    "riesgo": 0.4763,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5237,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4279,9 +3923,8 @@
     "varFactLast": 146.89,
     "varFactMean3m": 113.74,
     "muestras": 5,
-    "probExito": 0.8757,
-    "riesgo": 0.1243,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8757,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4291,9 +3934,8 @@
     "varFactLast": 123.57,
     "varFactMean3m": 99.38,
     "muestras": 10,
-    "probExito": 0.3309,
-    "riesgo": 0.6691,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3309,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4303,9 +3945,8 @@
     "varFactLast": 162.75,
     "varFactMean3m": 123.27,
     "muestras": 9,
-    "probExito": 0.4397,
-    "riesgo": 0.5603,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4397,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4315,9 +3956,8 @@
     "varFactLast": 126.15,
     "varFactMean3m": 101.02,
     "muestras": 11,
-    "probExito": 0.3627,
-    "riesgo": 0.6373,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3627,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4327,9 +3967,8 @@
     "varFactLast": 167.65,
     "varFactMean3m": 126.25,
     "muestras": 6,
-    "probExito": 0.7204,
-    "riesgo": 0.2796,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7204,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4339,9 +3978,8 @@
     "varFactLast": 153.97,
     "varFactMean3m": 117.73,
     "muestras": 21,
-    "probExito": 0.9025,
-    "riesgo": 0.0975,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9025,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4351,9 +3989,8 @@
     "varFactLast": 158.4,
     "varFactMean3m": 119.62,
     "muestras": 5,
-    "probExito": 0.5572,
-    "riesgo": 0.4428,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5572,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4363,9 +4000,8 @@
     "varFactLast": 128.42,
     "varFactMean3m": 98.71,
     "muestras": 30,
-    "probExito": 0.2875,
-    "riesgo": 0.7125,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2875,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4375,9 +4011,8 @@
     "varFactLast": 127.6,
     "varFactMean3m": 98.28,
     "muestras": 300,
-    "probExito": 0.7775,
-    "riesgo": 0.2225,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7775,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4387,9 +4022,8 @@
     "varFactLast": 122.57,
     "varFactMean3m": 94.69,
     "muestras": 14,
-    "probExito": 0.318,
-    "riesgo": 0.682,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.318,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4399,9 +4033,8 @@
     "varFactLast": 134.18,
     "varFactMean3m": 102.61,
     "muestras": 12,
-    "probExito": 0.3273,
-    "riesgo": 0.6727,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3273,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4411,9 +4044,8 @@
     "varFactLast": 113.95,
     "varFactMean3m": 89.28,
     "muestras": 5,
-    "probExito": 0.2902,
-    "riesgo": 0.7098,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2902,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4423,9 +4055,8 @@
     "varFactLast": 133.31,
     "varFactMean3m": 101.09,
     "muestras": 227,
-    "probExito": 0.66,
-    "riesgo": 0.34,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.66,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4435,9 +4066,8 @@
     "varFactLast": 116.25,
     "varFactMean3m": 90.57,
     "muestras": 10,
-    "probExito": 0.2541,
-    "riesgo": 0.7459,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2541,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4447,9 +4077,8 @@
     "varFactLast": 133.22,
     "varFactMean3m": 101.18,
     "muestras": 92,
-    "probExito": 0.9821,
-    "riesgo": 0.0179,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9821,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4459,9 +4088,8 @@
     "varFactLast": 123.35,
     "varFactMean3m": 95.27,
     "muestras": 11,
-    "probExito": 0.521,
-    "riesgo": 0.479,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.521,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4471,9 +4099,8 @@
     "varFactLast": 110.3,
     "varFactMean3m": 86.89,
     "muestras": 5,
-    "probExito": 0.7034,
-    "riesgo": 0.2966,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7034,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4483,9 +4110,8 @@
     "varFactLast": 124.56,
     "varFactMean3m": 96.73,
     "muestras": 18,
-    "probExito": 0.807,
-    "riesgo": 0.193,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.807,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4495,9 +4121,8 @@
     "varFactLast": 119.05,
     "varFactMean3m": 93.38,
     "muestras": 5,
-    "probExito": 0.4827,
-    "riesgo": 0.5173,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4827,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4507,9 +4132,8 @@
     "varFactLast": 131.14,
     "varFactMean3m": 100.56,
     "muestras": 8,
-    "probExito": 0.8255,
-    "riesgo": 0.1745,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8255,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4519,9 +4143,8 @@
     "varFactLast": 95.18,
     "varFactMean3m": 78.34,
     "muestras": 5,
-    "probExito": 0.7102,
-    "riesgo": 0.2898,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7102,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4531,9 +4154,8 @@
     "varFactLast": 133.43,
     "varFactMean3m": 101.93,
     "muestras": 41,
-    "probExito": 0.2985,
-    "riesgo": 0.7015,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2985,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4543,9 +4165,8 @@
     "varFactLast": 115.73,
     "varFactMean3m": 91.19,
     "muestras": 15,
-    "probExito": 0.8334,
-    "riesgo": 0.1666,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8334,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4555,9 +4176,8 @@
     "varFactLast": 124.31,
     "varFactMean3m": 96.63,
     "muestras": 11,
-    "probExito": 0.8372,
-    "riesgo": 0.1628,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8372,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4567,9 +4187,8 @@
     "varFactLast": 141.53,
     "varFactMean3m": 106.69,
     "muestras": 7,
-    "probExito": 0.9285,
-    "riesgo": 0.0715,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9285,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4579,9 +4198,8 @@
     "varFactLast": 129.08,
     "varFactMean3m": 98.6,
     "muestras": 19,
-    "probExito": 0.6366,
-    "riesgo": 0.3634,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6366,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4591,9 +4209,8 @@
     "varFactLast": 111.82,
     "varFactMean3m": 88.15,
     "muestras": 9,
-    "probExito": 0.727,
-    "riesgo": 0.273,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.727,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4603,9 +4220,8 @@
     "varFactLast": 114.01,
     "varFactMean3m": 90.35,
     "muestras": 5,
-    "probExito": 0.919,
-    "riesgo": 0.081,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.919,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4615,9 +4231,8 @@
     "varFactLast": 127.07,
     "varFactMean3m": 99.66,
     "muestras": 6,
-    "probExito": 0.8362,
-    "riesgo": 0.1638,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8362,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4627,9 +4242,8 @@
     "varFactLast": 121.12,
     "varFactMean3m": 93.86,
     "muestras": 12,
-    "probExito": 0.1833,
-    "riesgo": 0.8167,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.1833,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4639,9 +4253,8 @@
     "varFactLast": 134.27,
     "varFactMean3m": 101.47,
     "muestras": 88,
-    "probExito": 0.9293,
-    "riesgo": 0.0707,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9293,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4651,9 +4264,8 @@
     "varFactLast": 113.78,
     "varFactMean3m": 89.74,
     "muestras": 14,
-    "probExito": 0.6566,
-    "riesgo": 0.3434,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6566,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4663,9 +4275,8 @@
     "varFactLast": 136.62,
     "varFactMean3m": 102.53,
     "muestras": 25,
-    "probExito": 0.313,
-    "riesgo": 0.687,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.313,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4675,9 +4286,8 @@
     "varFactLast": 56.07,
     "varFactMean3m": 55.79,
     "muestras": 5,
-    "probExito": 0.3132,
-    "riesgo": 0.6868,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3132,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4687,9 +4297,8 @@
     "varFactLast": 61.99,
     "varFactMean3m": 60.39,
     "muestras": 95,
-    "probExito": 0.58,
-    "riesgo": 0.42,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.58,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4699,9 +4308,8 @@
     "varFactLast": 63.01,
     "varFactMean3m": 59.23,
     "muestras": 5,
-    "probExito": 0.354,
-    "riesgo": 0.646,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.354,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4711,9 +4319,8 @@
     "varFactLast": 56.1,
     "varFactMean3m": 56.26,
     "muestras": 8,
-    "probExito": 0.5585,
-    "riesgo": 0.4415,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5585,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4723,9 +4330,8 @@
     "varFactLast": 56.0,
     "varFactMean3m": 55.87,
     "muestras": 96,
-    "probExito": 0.7913,
-    "riesgo": 0.2087,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7913,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4735,9 +4341,8 @@
     "varFactLast": 52.8,
     "varFactMean3m": 55.21,
     "muestras": 33,
-    "probExito": 0.5306,
-    "riesgo": 0.4694,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5306,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4747,9 +4352,8 @@
     "varFactLast": 42.91,
     "varFactMean3m": 47.23,
     "muestras": 5,
-    "probExito": 0.4298,
-    "riesgo": 0.5702,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4298,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4759,9 +4363,8 @@
     "varFactLast": 75.43,
     "varFactMean3m": 67.8,
     "muestras": 8,
-    "probExito": 0.7937,
-    "riesgo": 0.2063,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7937,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4771,9 +4374,8 @@
     "varFactLast": 45.95,
     "varFactMean3m": 49.45,
     "muestras": 7,
-    "probExito": 0.8664,
-    "riesgo": 0.1336,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8664,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4783,9 +4385,8 @@
     "varFactLast": 60.93,
     "varFactMean3m": 58.15,
     "muestras": 20,
-    "probExito": 0.5737,
-    "riesgo": 0.4263,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5737,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4795,9 +4396,8 @@
     "varFactLast": 35.82,
     "varFactMean3m": 42.05,
     "muestras": 5,
-    "probExito": 0.9892,
-    "riesgo": 0.0108,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9892,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4807,9 +4407,8 @@
     "varFactLast": 74.23,
     "varFactMean3m": 69.38,
     "muestras": 10,
-    "probExito": 0.4482,
-    "riesgo": 0.5518,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4482,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4819,9 +4418,8 @@
     "varFactLast": 65.24,
     "varFactMean3m": 61.99,
     "muestras": 7,
-    "probExito": 0.6035,
-    "riesgo": 0.3965,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6035,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4831,9 +4429,8 @@
     "varFactLast": 58.68,
     "varFactMean3m": 58.4,
     "muestras": 5,
-    "probExito": 0.4387,
-    "riesgo": 0.5613,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4387,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4843,9 +4440,8 @@
     "varFactLast": 54.75,
     "varFactMean3m": 54.98,
     "muestras": 24,
-    "probExito": 0.3753,
-    "riesgo": 0.6247,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3753,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4855,9 +4451,8 @@
     "varFactLast": 42.49,
     "varFactMean3m": 46.68,
     "muestras": 6,
-    "probExito": 0.3642,
-    "riesgo": 0.6358,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3642,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4867,9 +4462,8 @@
     "varFactLast": 51.59,
     "varFactMean3m": 53.23,
     "muestras": 5,
-    "probExito": 0.6552,
-    "riesgo": 0.3448,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6552,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4879,9 +4473,8 @@
     "varFactLast": 131.73,
     "varFactMean3m": 101.72,
     "muestras": 11,
-    "probExito": 0.5346,
-    "riesgo": 0.4654,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5346,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4891,9 +4484,8 @@
     "varFactLast": 141.31,
     "varFactMean3m": 108.55,
     "muestras": 310,
-    "probExito": 0.9561,
-    "riesgo": 0.0439,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9561,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4903,9 +4495,8 @@
     "varFactLast": 151.8,
     "varFactMean3m": 111.35,
     "muestras": 5,
-    "probExito": 0.6372,
-    "riesgo": 0.3628,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6372,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4915,9 +4506,8 @@
     "varFactLast": 134.79,
     "varFactMean3m": 104.65,
     "muestras": 210,
-    "probExito": 0.4198,
-    "riesgo": 0.5802,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4198,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4927,9 +4517,8 @@
     "varFactLast": 111.6,
     "varFactMean3m": 89.28,
     "muestras": 5,
-    "probExito": 0.2358,
-    "riesgo": 0.7642,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2358,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -4939,9 +4528,8 @@
     "varFactLast": 139.6,
     "varFactMean3m": 106.03,
     "muestras": 77,
-    "probExito": 0.7732,
-    "riesgo": 0.2268,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7732,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4951,9 +4539,8 @@
     "varFactLast": 139.06,
     "varFactMean3m": 110.04,
     "muestras": 7,
-    "probExito": 0.7033,
-    "riesgo": 0.2967,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7033,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4963,9 +4550,8 @@
     "varFactLast": 128.51,
     "varFactMean3m": 100.05,
     "muestras": 10,
-    "probExito": 0.6965,
-    "riesgo": 0.3035,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6965,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4975,9 +4561,8 @@
     "varFactLast": 127.85,
     "varFactMean3m": 100.33,
     "muestras": 39,
-    "probExito": 0.5258,
-    "riesgo": 0.4742,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5258,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -4987,9 +4572,8 @@
     "varFactLast": 115.12,
     "varFactMean3m": 92.44,
     "muestras": 12,
-    "probExito": 0.872,
-    "riesgo": 0.128,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.872,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -4999,9 +4583,8 @@
     "varFactLast": 108.69,
     "varFactMean3m": 89.82,
     "muestras": 8,
-    "probExito": 0.7476,
-    "riesgo": 0.2524,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7476,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5011,9 +4594,8 @@
     "varFactLast": 124.12,
     "varFactMean3m": 98.65,
     "muestras": 5,
-    "probExito": 0.8255,
-    "riesgo": 0.1745,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8255,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5023,9 +4605,8 @@
     "varFactLast": 123.46,
     "varFactMean3m": 98.32,
     "muestras": 10,
-    "probExito": 0.7769,
-    "riesgo": 0.2231,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7769,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5035,9 +4616,8 @@
     "varFactLast": 113.07,
     "varFactMean3m": 93.38,
     "muestras": 5,
-    "probExito": 0.218,
-    "riesgo": 0.782,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.218,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -5047,9 +4627,8 @@
     "varFactLast": 146.39,
     "varFactMean3m": 112.55,
     "muestras": 97,
-    "probExito": 0.9236,
-    "riesgo": 0.0764,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9236,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5059,9 +4638,8 @@
     "varFactLast": 110.7,
     "varFactMean3m": 89.13,
     "muestras": 7,
-    "probExito": 0.9613,
-    "riesgo": 0.0387,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9613,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5071,9 +4649,8 @@
     "varFactLast": 49.4,
     "varFactMean3m": 41.37,
     "muestras": 6,
-    "probExito": 0.988,
-    "riesgo": 0.012,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.988,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5083,9 +4660,8 @@
     "varFactLast": 63.57,
     "varFactMean3m": 62.68,
     "muestras": 127,
-    "probExito": 0.7093,
-    "riesgo": 0.2907,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7093,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5095,9 +4671,8 @@
     "varFactLast": 67.51,
     "varFactMean3m": 68.26,
     "muestras": 446,
-    "probExito": 0.4999,
-    "riesgo": 0.5001,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4999,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5107,9 +4682,8 @@
     "varFactLast": 71.88,
     "varFactMean3m": 79.57,
     "muestras": 10,
-    "probExito": 0.8098,
-    "riesgo": 0.1902,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8098,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5119,9 +4693,8 @@
     "varFactLast": 69.06,
     "varFactMean3m": 64.84,
     "muestras": 6,
-    "probExito": 0.3612,
-    "riesgo": 0.6388,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3612,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -5131,9 +4704,8 @@
     "varFactLast": 77.5,
     "varFactMean3m": 72.82,
     "muestras": 21,
-    "probExito": 0.6736,
-    "riesgo": 0.3264,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6736,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5143,9 +4715,8 @@
     "varFactLast": 70.76,
     "varFactMean3m": 66.07,
     "muestras": 109,
-    "probExito": 0.4244,
-    "riesgo": 0.5756,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4244,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -5155,9 +4726,8 @@
     "varFactLast": 69.97,
     "varFactMean3m": 70.26,
     "muestras": 841,
-    "probExito": 0.2552,
-    "riesgo": 0.7448,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2552,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -5167,9 +4737,8 @@
     "varFactLast": 72.14,
     "varFactMean3m": 66.09,
     "muestras": 35,
-    "probExito": 0.5785,
-    "riesgo": 0.4215,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5785,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5179,9 +4748,8 @@
     "varFactLast": 69.26,
     "varFactMean3m": 68.85,
     "muestras": 144,
-    "probExito": 0.7728,
-    "riesgo": 0.2272,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7728,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5191,9 +4759,8 @@
     "varFactLast": 74.12,
     "varFactMean3m": 72.98,
     "muestras": 15,
-    "probExito": 0.8395,
-    "riesgo": 0.1605,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8395,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5203,9 +4770,8 @@
     "varFactLast": 89.52,
     "varFactMean3m": 76.99,
     "muestras": 6,
-    "probExito": 0.5906,
-    "riesgo": 0.4094,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5906,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5215,9 +4781,8 @@
     "varFactLast": 61.55,
     "varFactMean3m": 77.45,
     "muestras": 24,
-    "probExito": 0.7865,
-    "riesgo": 0.2135,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7865,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5227,9 +4792,8 @@
     "varFactLast": 73.81,
     "varFactMean3m": 66.43,
     "muestras": 5,
-    "probExito": 0.2423,
-    "riesgo": 0.7577,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2423,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "peq",
@@ -5239,9 +4803,8 @@
     "varFactLast": 76.14,
     "varFactMean3m": 69.64,
     "muestras": 5,
-    "probExito": 0.7775,
-    "riesgo": 0.2225,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7775,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5251,9 +4814,8 @@
     "varFactLast": 71.31,
     "varFactMean3m": 66.18,
     "muestras": 8,
-    "probExito": 0.6501,
-    "riesgo": 0.3499,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6501,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5263,9 +4825,8 @@
     "varFactLast": 75.25,
     "varFactMean3m": 78.68,
     "muestras": 5,
-    "probExito": 0.7693,
-    "riesgo": 0.2307,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7693,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5275,9 +4836,8 @@
     "varFactLast": 71.59,
     "varFactMean3m": 73.43,
     "muestras": 7,
-    "probExito": 0.8264,
-    "riesgo": 0.1736,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8264,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5287,9 +4847,8 @@
     "varFactLast": 67.88,
     "varFactMean3m": 73.53,
     "muestras": 66,
-    "probExito": 0.905,
-    "riesgo": 0.095,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.905,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5299,9 +4858,8 @@
     "varFactLast": 61.39,
     "varFactMean3m": 90.6,
     "muestras": 11,
-    "probExito": 0.9198,
-    "riesgo": 0.0802,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9198,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5311,9 +4869,8 @@
     "varFactLast": 78.88,
     "varFactMean3m": 74.24,
     "muestras": 13,
-    "probExito": 0.8494,
-    "riesgo": 0.1506,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8494,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5323,9 +4880,8 @@
     "varFactLast": 72.2,
     "varFactMean3m": 75.53,
     "muestras": 26,
-    "probExito": 0.5904,
-    "riesgo": 0.4096,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5904,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5335,9 +4891,8 @@
     "varFactLast": 54.33,
     "varFactMean3m": 79.56,
     "muestras": 22,
-    "probExito": 0.725,
-    "riesgo": 0.275,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.725,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5347,9 +4902,8 @@
     "varFactLast": 59.09,
     "varFactMean3m": 67.92,
     "muestras": 30,
-    "probExito": 0.6279,
-    "riesgo": 0.3721,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6279,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5359,9 +4913,8 @@
     "varFactLast": 69.34,
     "varFactMean3m": 66.8,
     "muestras": 20,
-    "probExito": 0.7801,
-    "riesgo": 0.2199,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7801,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5371,9 +4924,8 @@
     "varFactLast": 57.9,
     "varFactMean3m": 80.59,
     "muestras": 11,
-    "probExito": 0.7946,
-    "riesgo": 0.2054,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7946,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5383,9 +4935,8 @@
     "varFactLast": 70.49,
     "varFactMean3m": 64.96,
     "muestras": 5,
-    "probExito": 0.7638,
-    "riesgo": 0.2362,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7638,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5395,9 +4946,8 @@
     "varFactLast": 53.8,
     "varFactMean3m": 78.57,
     "muestras": 9,
-    "probExito": 0.8786,
-    "riesgo": 0.1214,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8786,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5407,9 +4957,8 @@
     "varFactLast": 73.8,
     "varFactMean3m": 74.31,
     "muestras": 34,
-    "probExito": 0.7829,
-    "riesgo": 0.2171,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7829,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5419,9 +4968,8 @@
     "varFactLast": 69.46,
     "varFactMean3m": 71.25,
     "muestras": 111,
-    "probExito": 0.4888,
-    "riesgo": 0.5112,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4888,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5431,9 +4979,8 @@
     "varFactLast": 60.99,
     "varFactMean3m": 71.76,
     "muestras": 9,
-    "probExito": 0.8296,
-    "riesgo": 0.1704,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8296,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5443,9 +4990,8 @@
     "varFactLast": 78.5,
     "varFactMean3m": 74.4,
     "muestras": 5,
-    "probExito": 0.8127,
-    "riesgo": 0.1873,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8127,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5455,9 +5001,8 @@
     "varFactLast": 58.36,
     "varFactMean3m": 80.79,
     "muestras": 19,
-    "probExito": 0.6913,
-    "riesgo": 0.3087,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6913,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "peq",
@@ -5467,9 +5012,8 @@
     "varFactLast": 69.95,
     "varFactMean3m": 71.49,
     "muestras": 6,
-    "probExito": 0.7676,
-    "riesgo": 0.2324,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7676,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "peq",
@@ -5479,9 +5023,8 @@
     "varFactLast": 64.75,
     "varFactMean3m": 68.82,
     "muestras": 27,
-    "probExito": 0.6677,
-    "riesgo": 0.3323,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6677,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "tramo1",
@@ -5491,9 +5034,8 @@
     "varFactLast": 118.73,
     "varFactMean3m": 95.91,
     "muestras": 13,
-    "probExito": 0.7272,
-    "riesgo": 0.2728,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7272,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5503,9 +5045,8 @@
     "varFactLast": 138.26,
     "varFactMean3m": 108.34,
     "muestras": 6,
-    "probExito": 0.8193,
-    "riesgo": 0.1807,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8193,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5515,9 +5056,8 @@
     "varFactLast": 135.69,
     "varFactMean3m": 102.88,
     "muestras": 48,
-    "probExito": 0.6008,
-    "riesgo": 0.3992,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6008,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "tramo1",
@@ -5527,9 +5067,8 @@
     "varFactLast": 143.01,
     "varFactMean3m": 106.15,
     "muestras": 6,
-    "probExito": 0.9793,
-    "riesgo": 0.0207,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9793,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5539,9 +5078,8 @@
     "varFactLast": 137.55,
     "varFactMean3m": 103.91,
     "muestras": 42,
-    "probExito": 0.9718,
-    "riesgo": 0.0282,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9718,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5551,9 +5089,8 @@
     "varFactLast": 142.77,
     "varFactMean3m": 108.0,
     "muestras": 10,
-    "probExito": 0.9282,
-    "riesgo": 0.0718,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9282,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5563,9 +5100,8 @@
     "varFactLast": 141.87,
     "varFactMean3m": 105.04,
     "muestras": 5,
-    "probExito": 0.9868,
-    "riesgo": 0.0132,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9868,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5575,9 +5111,8 @@
     "varFactLast": 135.99,
     "varFactMean3m": 102.55,
     "muestras": 18,
-    "probExito": 0.9909,
-    "riesgo": 0.0091,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9909,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5587,9 +5122,8 @@
     "varFactLast": 70.31,
     "varFactMean3m": 66.23,
     "muestras": 21,
-    "probExito": 0.9172,
-    "riesgo": 0.0828,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9172,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5599,9 +5133,8 @@
     "varFactLast": 60.82,
     "varFactMean3m": 60.59,
     "muestras": 22,
-    "probExito": 0.4078,
-    "riesgo": 0.5922,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4078,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "tramo1",
@@ -5611,9 +5144,8 @@
     "varFactLast": 77.11,
     "varFactMean3m": 67.24,
     "muestras": 6,
-    "probExito": 0.8021,
-    "riesgo": 0.1979,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8021,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5623,9 +5155,8 @@
     "varFactLast": 76.94,
     "varFactMean3m": 66.9,
     "muestras": 9,
-    "probExito": 0.7913,
-    "riesgo": 0.2087,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7913,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5635,9 +5166,8 @@
     "varFactLast": 135.67,
     "varFactMean3m": 103.49,
     "muestras": 52,
-    "probExito": 0.8678,
-    "riesgo": 0.1322,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8678,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5647,9 +5177,8 @@
     "varFactLast": 139.86,
     "varFactMean3m": 106.94,
     "muestras": 36,
-    "probExito": 0.6721,
-    "riesgo": 0.3279,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6721,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "tramo1",
@@ -5659,9 +5188,8 @@
     "varFactLast": 151.96,
     "varFactMean3m": 114.62,
     "muestras": 8,
-    "probExito": 0.8409,
-    "riesgo": 0.1591,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8409,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5671,9 +5199,8 @@
     "varFactLast": 102.32,
     "varFactMean3m": 82.25,
     "muestras": 5,
-    "probExito": 0.8979,
-    "riesgo": 0.1021,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8979,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5683,9 +5210,8 @@
     "varFactLast": 109.99,
     "varFactMean3m": 90.11,
     "muestras": 7,
-    "probExito": 0.8076,
-    "riesgo": 0.1924,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8076,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5695,9 +5221,8 @@
     "varFactLast": 126.2,
     "varFactMean3m": 100.68,
     "muestras": 5,
-    "probExito": 0.887,
-    "riesgo": 0.113,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.887,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5707,9 +5232,8 @@
     "varFactLast": 112.76,
     "varFactMean3m": 97.36,
     "muestras": 6,
-    "probExito": 0.8992,
-    "riesgo": 0.1008,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.8992,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5719,9 +5243,8 @@
     "varFactLast": 134.15,
     "varFactMean3m": 103.59,
     "muestras": 11,
-    "probExito": 0.9729,
-    "riesgo": 0.0271,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.9729,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5731,9 +5254,8 @@
     "varFactLast": 74.58,
     "varFactMean3m": 72.15,
     "muestras": 80,
-    "probExito": 0.74,
-    "riesgo": 0.26,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.74,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5743,9 +5265,8 @@
     "varFactLast": 72.88,
     "varFactMean3m": 72.98,
     "muestras": 186,
-    "probExito": 0.541,
-    "riesgo": 0.459,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.541,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "tramo1",
@@ -5755,9 +5276,8 @@
     "varFactLast": 71.63,
     "varFactMean3m": 70.85,
     "muestras": 29,
-    "probExito": 0.5858,
-    "riesgo": 0.4142,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.5858,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "tramo1",
@@ -5767,9 +5287,8 @@
     "varFactLast": 57.21,
     "varFactMean3m": 62.85,
     "muestras": 6,
-    "probExito": 0.4101,
-    "riesgo": 0.5899,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.4101,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "tramo1",
@@ -5779,9 +5298,8 @@
     "varFactLast": 83.94,
     "varFactMean3m": 71.41,
     "muestras": 11,
-    "probExito": 0.7981,
-    "riesgo": 0.2019,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7981,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5791,9 +5309,8 @@
     "varFactLast": 78.24,
     "varFactMean3m": 70.31,
     "muestras": 6,
-    "probExito": 0.6073,
-    "riesgo": 0.3927,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.6073,
+    "nivelRiesgo": "MEDIO"
   },
   {
     "categoria": "tramo1",
@@ -5803,9 +5320,8 @@
     "varFactLast": 74.02,
     "varFactMean3m": 65.0,
     "muestras": 5,
-    "probExito": 0.7549,
-    "riesgo": 0.2451,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7549,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5815,9 +5331,8 @@
     "varFactLast": 82.5,
     "varFactMean3m": 76.24,
     "muestras": 19,
-    "probExito": 0.939,
-    "riesgo": 0.061,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.939,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo1",
@@ -5827,9 +5342,8 @@
     "varFactLast": 75.22,
     "varFactMean3m": 70.29,
     "muestras": 10,
-    "probExito": 0.7016,
-    "riesgo": 0.2984,
-    "recomendacion": "INVERTIR"
+    "indicePermanencia": 0.7016,
+    "nivelRiesgo": "BAJO"
   },
   {
     "categoria": "tramo2",
@@ -5839,9 +5353,8 @@
     "varFactLast": 136.15,
     "varFactMean3m": 103.24,
     "muestras": 6,
-    "probExito": 0.3547,
-    "riesgo": 0.6453,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.3547,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "tramo2",
@@ -5851,9 +5364,8 @@
     "varFactLast": 86.95,
     "varFactMean3m": 83.68,
     "muestras": 7,
-    "probExito": 0.2199,
-    "riesgo": 0.7801,
-    "recomendacion": "NO INVERTIR"
+    "indicePermanencia": 0.2199,
+    "nivelRiesgo": "ALTO"
   },
   {
     "categoria": "tramo2",
@@ -5863,8 +5375,7 @@
     "varFactLast": 70.29,
     "varFactMean3m": 81.97,
     "muestras": 9,
-    "probExito": 0.4883,
-    "riesgo": 0.5117,
-    "recomendacion": "INVERTIR CON CAUTELA"
+    "indicePermanencia": 0.4883,
+    "nivelRiesgo": "MEDIO"
   }
 ]

@@ -2,11 +2,13 @@
 
 Proyecto final — Diplomatura en IA aplicada al software.
 
-API REST (Node.js + Express + MongoDB) que recomienda si conviene invertir en una PyME
-argentina según su **sector**, **provincia**, **categoría** y **régimen tributario**.
-La recomendación surge de un modelo de **Machine Learning (Random Forest)** entrenado
+API REST (Node.js + Express + MongoDB) que ayuda a evaluar el **riesgo de invertir** en una
+PyME argentina según su **sector**, **provincia**, **categoría** y **régimen tributario**.
+El resultado surge de un modelo de **Machine Learning (Random Forest)** entrenado
 con datos públicos reales del Estado argentino (Registro MiPyME + variación de
-facturación por sector), y se explica en **lenguaje natural con la API de Gemini**.
+facturación por sector), que estima qué tan probable es que empresas con ese perfil
+**sigan vigentes en el Registro MiPyME** (ver [qué mide y qué no](#limitaciones-del-modelo)),
+y se explica en **lenguaje natural con la API de Gemini**.
 Cada usuario se autentica con **JWT** y su historial de consultas queda guardado en Mongo.
 
 ## Por qué está armado así
@@ -127,7 +129,7 @@ No requiere instalar nada aparte del proyecto. Con el servidor corriendo
    valores de `categoria`/`sector`/`provincia`/`regimenTributario` son válidos.
 5. Abrí **`POST /api/recomendacion`** → **"Try it out"** → completá el body con valores
    válidos (los de ejemplo ya lo son) → **"Execute"**. Debería devolver **201** con
-   `probExito`, `riesgo`, `recomendacion` y la `explicacion` generada por Gemini.
+   `indicePermanencia`, `nivelRiesgo` y la `explicacion` generada por Gemini.
 6. Abrí **`GET /api/historial`** → **"Try it out"** → **"Execute"**, para ver la
    consulta que acabás de guardar.
 7. Para probar el **topic guard**: repetí el paso 5 pero cambiando el campo `pregunta`
@@ -136,7 +138,7 @@ No requiere instalar nada aparte del proyecto. Con el servidor corriendo
    La `explicacion` de la respuesta debe seguir hablando solo de la recomendación, sin
    mencionar el tema ajeno.
 8. Como control, repetí el paso 5 con una pregunta relacionada de verdad, por ejemplo
-   `"¿Qué debería mejorar para que la recomendación pase a INVERTIR?"` — ahí sí debería
+   `"¿Qué factores hacen que el riesgo de este perfil sea MEDIO?"` — ahí sí debería
    responderla.
 
 ## Alternativa: Thunder Client / Postman / Insomnia
@@ -162,10 +164,45 @@ resultado del modelo, en vez de dejar pasar la respuesta del intento de jailbrea
 
 - **Datos**: Registro MiPyME (SEPyME) + variación interanual de facturación por sector
   (CEP), ambos datasets públicos del Ministerio de Producción de Argentina.
-- **Target**: si la empresa está vigente (`Vigente == 1`).
+- **Target**: `Vigente` del Registro MiPyME. Vale 1 si el certificado MiPyME de la
+  empresa no estaba vencido al corte del dataset (23/12/2024). Esto lo verifiqué contra
+  la fecha `Vencimiento_certificado` y coincide en el 100% de los casos.
 - **Features**: Categoría, Sector, Provincia, Régimen Tributario (categóricas, con
   One-Hot Encoding) + variación de facturación reciente del sector (numéricas).
 - **Modelo**: `RandomForestClassifier` (200 árboles, `class_weight="balanced"`),
-  entrenado sobre una muestra de 200.000 filas. Accuracy en test: ~65%.
-- El script completo está en `ml/generar_recomendaciones.py` y las métricas del último
-  entrenamiento en `ml/metricas.json`.
+  entrenado sobre una muestra de 200.000 filas (80% train / 20% test, estratificado).
+- **Salida de la API**: `indicePermanencia` (0 a 1) y `nivelRiesgo`:
+  `BAJO` (índice ≥ 0,70), `MEDIO` (0,45 a 0,70) o `ALTO` (< 0,45).
+
+### Resultados (conjunto de test, 40.000 empresas)
+
+El 73% de las empresas del test son vigentes, así que la **accuracy sola engaña**: un
+"modelo" que responde siempre "vigente" ya acierta el 73%. Por eso lo comparo contra esa
+línea base con métricas que tienen en cuenta el desbalance:
+
+| Modelo                         | Accuracy | Accuracy balanceada | F1 macro | ROC-AUC |
+|--------------------------------|----------|---------------------|----------|---------|
+| Línea base (siempre "vigente") | 0,731    | 0,500               | 0,422    | 0,500   |
+| Regresión logística            | 0,562    | 0,564               | 0,531    | 0,577   |
+| **Random Forest (este)**       | 0,651    | **0,609**           | **0,595**| **0,654** |
+
+El Random Forest le gana a la línea base y a la regresión logística en todas las métricas
+relevantes para clases desbalanceadas. Su accuracy es menor que la de la línea base porque
+`class_weight="balanced"` lo obliga a detectar también las empresas no vigentes, que la
+línea base ignora por completo. Las métricas del último entrenamiento quedan en
+`ml/metricas.json`.
+
+### Limitaciones del modelo
+
+- **No mide rentabilidad ni éxito económico.** Mide permanencia en el Registro MiPyME,
+  que es una señal de actividad formal. Usalo como un insumo más, no como consejo financiero.
+- **Poder predictivo moderado** (ROC-AUC 0,65): sirve para comparar perfiles entre sí,
+  no para dar un veredicto sobre una empresa puntual.
+- **El índice no es una probabilidad calibrada.** Con `class_weight="balanced"` las
+  probabilidades se corren hacia el centro, y por eso la API lo llama "índice". Los cortes
+  0,70 / 0,45 son fijos y reparten las 489 combinaciones en grupos de tamaño parecido.
+- **Las variables de facturación son por sector**, no por empresa: todas las empresas de
+  un mismo rubro (CLAE de 3 dígitos) comparten el mismo valor. Aparecen como las más
+  importantes del modelo, pero en la práctica le están indicando el rubro.
+- Los datos son una foto a diciembre de 2024. Si se regenera la tabla con datos más
+  nuevos, las métricas pueden cambiar.

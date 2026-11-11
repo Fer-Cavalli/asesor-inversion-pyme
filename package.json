@@ -1,7 +1,7 @@
 {
   "name": "asesor-inversion-pyme",
   "version": "1.0.0",
-  "description": "API REST que recomienda si conviene invertir en un sector/provincia, basada en un modelo de Machine Learning entrenado con datos publicos del Estado argentino, con explicacion en lenguaje natural via Gemini.",
+  "description": "API REST que estima el riesgo de invertir en una PyME argentina con un modelo de Machine Learning entrenado con datos publicos del Registro MiPyME, con explicacion en lenguaje natural via Gemini.",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",

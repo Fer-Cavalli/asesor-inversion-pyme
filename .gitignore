@@ -4,3 +4,4 @@ ml/mipyme.csv
 ml/facturacion.csv
 ml/generar.log
 .DS_Store
+__pycache__/

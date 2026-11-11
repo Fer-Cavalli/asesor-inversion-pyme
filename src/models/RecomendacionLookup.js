@@ -12,9 +12,8 @@ const recomendacionLookupSchema = new mongoose.Schema({
   varFactLast: { type: Number, required: true },
   varFactMean3m: { type: Number, required: true },
   muestras: { type: Number, required: true },
-  probExito: { type: Number, required: true },
-  riesgo: { type: Number, required: true },
-  recomendacion: { type: String, required: true },
+  indicePermanencia: { type: Number, required: true },
+  nivelRiesgo: { type: String, enum: ["BAJO", "MEDIO", "ALTO"], required: true },
 });
 
 recomendacionLookupSchema.index({
